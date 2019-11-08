@@ -1,0 +1,32 @@
+CLC_CODE;LABEL1;LABEL2;LABEL3;RGB
+111;Artificial surfaces;Urban fabric;Continuous urban fabric;230-000-077
+112;Artificial surfaces;Urban fabric;Discontinuous urban fabric;255-000-000
+121;Artificial surfaces;Industrial, commercial and transport units;Industrial or commercial units;204-077-242
+122;Artificial surfaces;Industrial, commercial and transport units;Road and rail networks and associated land;204-000-000
+123;Artificial surfaces;Industrial, commercial and transport units;Port areas;230-204-204
+124;Artificial surfaces;Industrial, commercial and transport units;Airports;230-204-230
+131;Artificial surfaces;Mine, dump and construction sites;Mineral extraction sites;166-000-204
+132;Artificial surfaces;Mine, dump and construction sites;Dump sites;166-077-000
+133;Artificial surfaces;Mine, dump and construction sites;Construction sites;255-077-255
+141;Artificial surfaces;Artificial, non-agricultural vegetated areas;Green urban areas;255-166-255
+142;Artificial surfaces;Artificial, non-agricultural vegetated areas;Sport and leisure facilities;255-230-255
+211;Agricultural areas;Arable land;Non-irrigated arable land;255-255-168
+222;Agricultural areas;Permanent crops;Fruit trees and berry plantations;242-166-077
+231;Agricultural areas;Pastures;Pastures;230-230-077
+242;Agricultural areas;Heterogeneous agricultural areas;Complex cultivation patterns;255-230-077
+243;Agricultural areas;Heterogeneous agricultural areas;Land principally occupied by agriculture, with significant areas of natural vegetation;230-204-077
+311;Forest and semi natural areas;Forests;Broad-leaved forest;128-255-000
+312;Forest and semi natural areas;Forests;Coniferous forest;000-166-000
+313;Forest and semi natural areas;Forests;Mixed forest;077-255-000
+321;Forest and semi natural areas;Scrub and/or herbaceous vegetation associations;Natural grasslands;204-242-077
+322;Forest and semi natural areas;Scrub and/or herbaceous vegetation associations;Moors and heathland;166-255-128
+324;Forest and semi natural areas;Scrub and/or herbaceous vegetation associations;Transitional woodland-shrub;166-242-000
+331;Forest and semi natural areas;Open spaces with little or no vegetation;Beaches, dunes, sands;230-230-230
+333;Forest and semi natural areas;Open spaces with little or no vegetation;Sparsely vegetated areas;204-255-204
+411;Wetlands;Inland wetlands;Inland marshes;166-166-255
+412;Wetlands;Inland wetlands;Peat bogs;077-077-255
+421;Wetlands;Maritime wetlands;Salt marshes;204-204-255
+511;Water bodies;Inland waters;Water courses;000-204-242
+512;Water bodies;Inland waters;Water bodies;128-242-230
+521;Water bodies;Marine waters;Coastal lagoons;000-255-166
+523;Water bodies;Marine waters;Sea and ocean;230-242-255
