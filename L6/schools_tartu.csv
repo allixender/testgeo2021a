@@ -1,0 +1,138 @@
+FID,id,name,Aadress,X,y
+0,13376,Aakre Lasteaed-Algkool,"Valga maakond, Puka vald, Aakre küla, Mõisa tee 10",629862.000000000000000,6441779.000000000000000
+1,13290,Alatskivi Lasteaed,"Tartu maakond, Alatskivi vald, Alatskivi alevik, Kooli tn 2",682186.965100000030361,6499629.998999999836087
+2,13396,Anna Haava nim Pala Kool,"Jõgeva maakond, Pala vald, Pala küla, Koolimaja",675030.000000000000000,6507478.000000000000000
+3,13202,Elva Gümnaasium,"Tartu maakond, Elva linn, Tartu mnt 3",641493.000000000000000,6456152.000000000000000
+4,13298,Elva Huviala-ja Kultuurikeskus Sinilind,"Tartu maakond, Elva linn, Kesk tn 30",641973.962500000023283,6456196.951000000350177
+5,13299,Elva Lasteaed Murumuna,"Tartu maakond, Elva linn, Kesk tn 29",641982.072200000053272,6456052.962000000290573
+6,13223,Elva Lasteaed Õnneseen,"Tartu maakond, Elva linn, Kaja tn 4",641536.038900000043213,6457021.987999999895692
+7,13211,Eralasteaed TERAKE,"Tartu maakond, Tartu linn, Tähe 4",659469.000000000000000,6473549.000000000000000
+8,12606,Hellenurme Mõis eralasteaed,"Valga maakond, Palupera vald, Hellenurme küla, Mõisa aed",640247.755800000042655,6446269.855999999679625
+9,13319,Hugo Treffneri Gümnaasium,"Tartu maakond, Tartu linn, Munga tn 12",659101.000000000000000,6474537.000000000000000
+10,13337,Ilmatsalu Lasteaed ""Lepatriinu"","Tartu maakond, Tähtvere vald, Ilmatsalu alevik, Pargi tee 4",649577.050599999958649,6474710.063000000081956
+11,13338,Ilmatsalu Põhikool,"Tartu maakond, Tähtvere vald, Ilmatsalu alevik, Kooli tee 5",649774.000000000000000,6474455.000000000000000
+12,13330,Iluravi Rahvusvaheline Erakool,"Tartu maakond, Tartu linn, Anne tn 53a",661200.065300000016578,6474014.946000000461936
+13,13420,J.V.Veski nim. Maarja Põhikool,"Jõgeva maakond, Tabivere vald, Maarja-Magdaleena küla, Maarja põhikool",659089.000000000000000,6500888.000000000000000
+14,13208,Juhan Liivi nim. Alatskivi Keskkool,"Tartu maakond, Alatskivi vald, Alatskivi alevik, Kooli tn 1",682231.000000000000000,6499785.000000000000000
+15,12676,Kaagvere Erikool,"Tartu maakond, Mäksa vald, Kaagvere küla, Mõisakoha",669105.000000000000000,6471236.000000000000000
+16,13287,Kallaste Keskkool,"Tartu maakond, Kallaste linn, Oja tn 28",683383.000000000000000,6507056.000000000000000
+17,13288,Kallaste Lasteaed Vikerkaar,"Tartu maakond, Kallaste linn, Sõpruse tn 4",683133.979000000050291,6507362.014999999664724
+18,13265,Kambja Lasteaed Mesimumm,"Tartu maakond, Kambja vald, Kambja alevik, Kesk tn 4",658500.033100000000559,6458080.054999999701977
+19,13266,Kambja Põhikool,"Tartu maakond, Kambja vald, Kambja alevik, Kesk tn 12",658698.000000000000000,6458235.000000000000000
+20,13303,Kammeri Kool,"Tartu maakond, Kambja vald, Kammeri küla, Kammeri eriinternaatkool",655092.000000000000000,6451299.000000000000000
+21,11932,Karu Lasteaed,"Tartu maakond, Tartu linn, Purpuri 10",663531.000000000000000,6472480.000000000000000
+22,13263,Kavastu Algkool-Lasteaed,"Tartu maakond, Luunja vald, Kavastu küla, Kooli",678333.000000000000000,6475578.000000000000000
+23,13289,Kolkja Lasteaed Päike,"Tartu maakond, Peipsiääre vald, Kolkja alevik, Koolimaja",687005.117399999988265,6494512.118999999947846
+24,12453,Kolkja Põhikool,"Tartu maakond, Peipsiääre vald, Kolkja alevik, Koolimaja",687005.000000000000000,6494549.000000000000000
+25,13302,Konguta Kool,"Tartu maakond, Konguta vald, Annikoru küla, Kooli",635475.000000000000000,6460721.000000000000000
+26,12029,Koosa Lasteaed-Algkool,"Tartu maakond, Vara vald, Koosa küla, Lasteaia",679397.726200000033714,6491350.826999999582767
+27,13269,Kuuste Kool,"Tartu maakond, Kambja vald, Vana-Kuuste küla, Kuuste põhikool",663297.000000000000000,6460280.000000000000000
+28,13254,Kõrveküla lasteaed Päikeseratas,"Tartu maakond, Tartu vald, Kõrveküla alevik, Lasteaia tn 4",661215.788199999951757,6479373.964999999850988
+29,13206,Kõrveküla Põhikool,"Tartu maakond, Tartu vald, Kõrveküla alevik, Vasula tee 12",661408.000000000000000,6479303.000000000000000
+30,13335,Laeva Lasteaed,"Tartu maakond, Laeva vald, Laeva küla, Väänikvere tee 8",639124.314699999988079,6485506.881000000052154
+31,13336,Laeva Põhikool,"Tartu maakond, Laeva vald, Laeva küla, Aeru tee 1",638780.000000000000000,6485350.000000000000000
+32,12629,Lasteaed Puhhi,"Tartu maakond, Tartu linn, Annemoisa 8",662378.000000000000000,6474128.000000000000000
+33,13218,Lohkva Lasteaed,"Tartu maakond, Luunja vald, Valguse tee 6",663537.000000000000000,6473292.000000000000000
+34,13284,Luke Lasteaed Segasumma,"Tartu maakond, Nõo vald, Luke küla, Vanajärve tn 6",648974.947099999990314,6457978.932000000029802
+35,13268,Luunja Keskkool,"Tartu maakond, Luunja vald, Luunja alevik, Puiestee tn 28",668183.000000000000000,6471904.000000000000000
+36,13267,Luunja Lasteaed Midrimaa,"Tartu maakond, Luunja vald, Luunja alevik, Uus tn 2",668316.240600000019185,6471868.192999999970198
+37,13333,Lähte Lasteaed,"Tartu maakond, Tartu vald, Lähte alevik, Kase põik 3",656120.251099999994040,6487065.928999999538064
+38,13219,Lähte Ühisgümnaasium,"Tartu maakond, Tartu vald, Lähte alevik, Õpetaja tn 8",656528.000000000000000,6486908.000000000000000
+39,11949,Mainor - Tartu Õppekeskus,"Tartu maakond, Tartu linn, Pepleri tänav 6",658906.000000000000000,6473921.000000000000000
+40,13260,Melliste Algkool-Lasteaed,"Tartu maakond, Mäksa vald, Melliste küla, Melliste algkool-lasteaia",674620.000000000000000,6469533.000000000000000
+41,13246,Miina Härma Gümnaasium,"Tartu maakond, Tartu linn, Jaan Tõnissoni tn 3",658454.000000000000000,6473899.000000000000000
+42,13273,MTÜ Lasteaed Väike Pauline,"Tartu maakond, Tartu linn, Jakobi tn 45",658481.000099999946542,6474675.968999999575317
+43,13334,Nõgiaru Lasteaed,"Tartu maakond, Nõo vald, Nõgiaru küla, Nõo tn 10",649128.534800000023097,6466262.407999999821186
+44,13294,Nõo Lasteaed Krõll,"Tartu maakond, Nõo vald, Nõo alevik, Kivi tn 6",648427.956299999961630,6461860.001000000163913
+45,13293,Nõo Põhikool,"Tartu maakond, Nõo vald, Nõo alevik, K. Aigro tn 1",648764.000000000000000,6462780.000000000000000
+46,13295,Nõo Reaalgümnaasium,"Tartu maakond, Nõo vald, Nõo alevik, K. Aigro tn 1",648764.000000000000000,6462780.000000000000000
+47,13251,OÜ Remante Eralasteaed Cipollino,"Tartu maakond, Tartu linn, Metalli tn 1",659521.027200000011362,6471184.992999999783933
+48,12657,OÜ Sverresson Anni Lasteaed,"Tartu maakond, Tartu linn, Tamme pst 80a",657908.025299999979325,6471663.961000000126660
+49,12000,Palu puhkekeskus,"Tartu maakond, Nõo vald, Meeri küla, Palu",644829.000000000000000,6465222.000000000000000
+50,13370,Palupera Põhikool,"Valga maakond, Palupera vald, Palupera küla, Palupera põhikool",637541.000000000000000,6443991.000000000000000
+51,11888,Palupõhja looduskool,"Tartu maakond, Puhja vald, Palupõhja küla, Jaago",630599.000000000000000,6477841.000000000000000
+52,13286,Puhja Gümnaasium,"Tartu maakond, Puhja vald, Puhja alevik, Viljandi tee 28/2",635283.000000000000000,6468527.000000000000000
+53,13285,Puhja Lasteaed Pääsusilm,"Tartu maakond, Puhja vald, Puhja alevik, Nooruse tn 6",635374.490600000019185,6468318.628999999724329
+54,13291,Rannu Kool,"Tartu maakond, Rannu vald, Rannu alevik, Rannu keskkool",630157.000000000000000,6457625.000000000000000
+55,13292,Rannu Lasteaed,"Tartu maakond, Rannu vald, Rannu alevik 3",630351.940799999982119,6457400.165000000037253
+56,13300,Rõngu Keskkool,"Tartu maakond, Rõngu vald, Rõngu alevik, Puiestee tn 19",632297.000000000000000,6447596.000000000000000
+57,13301,Rõngu Lasteaed Pihlakobar,"Tartu maakond, Rõngu vald, Rõngu alevik, Mäe tn 2",631977.024600000004284,6447120.049999999813735
+58,13221,Sillaotsa Kool,"Tartu maakond, Haaslava vald, Päkste küla, Sillaotsa põhikool",669706.000000000000000,6464966.000000000000000
+59,13397,Tabivere Lasteaed,"Jõgeva maakond, Tabivere vald, Tabivere alevik, Tuuliku tn 11",651310.042900000000373,6492933.046000000089407
+60,13398,Tabivere Põhikool,"Jõgeva maakond, Tabivere vald, Tabivere alevik, Tabivere gümnaasium",651724.000000000000000,6492688.000000000000000
+61,13322,Tartu Aleksander Puškini Kool,"Tartu maakond, Tartu linn, Uus tn 54",660566.000000000000000,6474255.000000000000000
+62,13324,Tartu Annelinna Gümnaasium,"Tartu maakond, Tartu linn, Kaunase pst 68",662079.000000000000000,6473843.000000000000000
+63,13329,Tartu Descartesi Kool,"Tartu maakond, Tartu linn, Anne tn 65",661302.000000000000000,6473886.000000000000000
+64,13277,Tartu Emajõe Kool,"Tartu maakond, Tartu linn, Vabaduse pst 9",659244.000000000000000,6474716.000000000000000
+65,13209,Tartu Erakool,"Tartu maakond, Tartu linn, Tähe tn 4",659502.000000000000000,6473560.000000000000000
+66,44858,Tartu Erakool (Elva linn),"Tartu maakond, Elva linn, Vapramäe 22",643849.000000000000000,6458059.000000000000000
+67,13241,Tartu Forseliuse Kool,"Tartu maakond, Tartu linn, Tähe tn 103",659744.000000000000000,6472055.000000000000000
+68,13323,Tartu Hansa Kool,"Tartu maakond, Tartu linn, Anne tn 63",661293.000000000000000,6473997.000000000000000
+69,13243,Tartu Herbert Masingu Kool,"Tartu maakond, Tartu linn, Vanemuise 33",659101.000000000000000,6473818.000000000000000
+70,13275,Tartu Hiie Kool,"Tartu maakond, Tartu linn, Hiie tn 11",657741.000000000000000,6474682.000000000000000
+71,13248,Tartu Jaan Poska Gümnaasium,"Tartu maakond, Tartu linn, Vanemuise tn 35",659100.000000000000000,6473818.000000000000000
+72,13214,Tartu Jäähokikool,"Tartu maakond, Tartu linn, Ringtee 75",656715.000000000000000,6471751.000000000000000
+73,13240,Tartu Karlova Kool,"Tartu maakond, Tartu linn, Lina tn 2",659925.000000000000000,6473372.000000000000000
+74,13274,Tartu Katoliku Hariduskeskus,"Tartu maakond, Tartu linn, Jakobi 41",658513.000000000000000,6474649.000000000000000
+75,13328,Tartu Kesklinna Kool,"Tartu maakond, Tartu linn, Kroonuaia tn 7",658787.000000000000000,6474587.000000000000000
+76,13229,Tartu Kesklinna Lastekeskus,"Tartu maakond, Tartu linn, Akadeemia tn 2",659169.993299999972805,6473704.957000000402331
+77,13325,Tartu Kivilinna Gümnaasium,"Tartu maakond, Tartu linn, Kaunase pst 70",662136.000000000000000,6473972.000000000000000
+78,44859,Tartu Kristjan Jaak Petersoni Gümnaasium,"Tartu maakond, Tartu linn, Kaunase pst 70",661933.000000000000000,6474146.000000000000000
+79,13257,Tartu Kristlik Põhikool,"Tartu maakond, Tartu linn, Ööbiku tn 10a",658476.000000000000000,6471697.000000000000000
+80,13247,Tartu Kroonuaia Kool,"Tartu maakond, Tartu linn, Puiestee tn 62",659354.000000000000000,6475529.000000000000000
+81,12552,Tartu Lasteaed Annike,"Tartu maakond, Tartu linn, Anne tn 9",660473.999199999962002,6474444.924999999813735
+82,13233,Tartu Lasteaed Helika,"Tartu maakond, Tartu linn, Kalevi tn 52a",660030.944999999948777,6473308.077999999746680
+83,13238,Tartu Lasteaed Hellik,"Tartu maakond, Tartu linn, Aardla tn 138",657131.976999999955297,6471143.947999999858439
+84,13311,Tartu Lasteaed Kannike,"Tartu maakond, Tartu linn, Ravila tn 43",657092.918100000009872,6473737.065000000409782
+85,13225,Tartu Lasteaed Karoliine,"Tartu maakond, Tartu linn, Kesk tn 6",659443.074799999943934,6473270.012000000104308
+86,13310,Tartu Lasteaed Kelluke,"Tartu maakond, Tartu linn, Kaunase pst 69",661935.068500000052154,6474058.969999999739230
+87,13309,Tartu Lasteaed Kivike,"Tartu maakond, Tartu linn, Kivi tn 44",659824.064999999944121,6474863.980999999679625
+88,13306,Tartu Lasteaed Klaabu,"Tartu maakond, Tartu linn, Kummeli 5",658974.000000000000000,6476600.000000000000000
+89,13316,Tartu Lasteaed Krõll,"Tartu maakond, Tartu linn, Anne tn 67",661473.974399999948218,6473950.067999999970198
+90,13307,Tartu Lasteaed Lotte,"Tartu maakond, Tartu linn, Ida tn 8",661254.019599999999627,6474808.041000000201166
+91,13313,Tartu Lasteaed Meelespea,"Tartu maakond, Tartu linn, Ilmatsalu tn 24a",657182.952300000004470,6473770.992999999783933
+92,13234,Tartu Lasteaed Midrimaa,"Tartu maakond, Tartu linn, Vanemuise tn 28",659116.038900000043213,6473740.043999999761581
+93,13314,Tartu Lasteaed Mõmmik,"Tartu maakond, Tartu linn, Mõisavahe tn 32",662498.940599999972619,6473438.991999999620020
+94,13304,Tartu Lasteaed Nukitsamees,"Tartu maakond, Tartu linn, Taara pst 8",658289.015499999979511,6474245.989000000059605
+95,13235,Tartu Lasteaed Piilupesa,"Tartu maakond, Tartu linn, Ropka tn 34",659755.049899999983609,6471806.957000000402331
+96,13239,Tartu Lasteaed Ploomike,"Tartu maakond, Tartu linn, Ploomi tn 1",658980.987700000056066,6471251.029000000096858
+97,13315,Tartu Lasteaed Poku,"Tartu maakond, Tartu linn, Anne tn 69",661466.030200000037439,6473839.014999999664724
+98,13230,Tartu Lasteaed Päkapikk,"Tartu maakond, Tartu linn, Tiigi tn 25",658662.061499999952503,6473789.032999999821186
+99,13312,Tartu Lasteaed Pääsupesa,"Tartu maakond, Tartu linn, Sõpruse pst 12",661027.941100000054576,6473880.059999999590218
+100,13232,Tartu Lasteaed Ristikhein,"Tartu maakond, Tartu linn, Ropka tee 25",660164.010299999965355,6471650.059000000357628
+101,13237,Tartu Lasteaed Rukkilill,"Tartu maakond, Tartu linn, Sepa tn 18",659547.011399999959394,6471020.978000000119209
+102,13228,Tartu Lasteaed Sass,"Tartu maakond, Tartu linn, Aleksandri tn 10",659753.063800000003539,6473806.080000000074506
+103,13224,Tartu Lasteaed Sipsik,"Tartu maakond, Tartu linn, Kaunase pst 22",661889.058399999979883,6473839.014999999664724
+104,13231,Tartu Lasteaed Sirel,"Tartu maakond, Tartu linn, Lubja tn 14",659111.073800000012852,6475761.013000000268221
+105,13308,Tartu Lasteaed Triinu ja Taavi,"Tartu maakond, Tartu linn, Kaunase pst 67",662025.930199999944307,6473746.995000000111759
+106,13226,Tartu Lasteaed Tõruke,"Tartu maakond, Tartu linn, Tamme pst 43a",658017.919899999978952,6472174.044999999925494
+107,13318,Tartu Lasteaed Tähtvere,"Tartu maakond, Tartu linn, Anton Hansen Tammsaare tn 10",657493.934299999964423,6474765.009999999776483
+108,13236,Tartu Lastesõim Mesipuu,"Tartu maakond, Tartu linn, Õpetaja tn 10",658908.000400000018999,6473664.076999999582767
+109,37791,Tartu Luterlik Peetri Kool,"Tartu maakond, Tartu linn, Roosi tn 1",659556.000000000000000,6474678.000000000000000
+110,13305,Tartu Maarja Kool,"Tartu maakond, Tartu linn, Puiestee tn 126",660639.000000000000000,6474750.000000000000000
+111,13317,Tartu Maarjamõisa Lasteaed,"Tartu maakond, Tartu linn, Ludvig Puusepa tn 10",657905.046199999982491,6473408.042999999597669
+112,13249,Tartu Mart Reiniku Kool,"Tartu maakond, Tartu linn, Vanemuise tn 48",658832.000000000000000,6473499.000000000000000
+113,13320,Tartu Raatuse Kool,"Tartu maakond, Tartu linn, Raatuse tn 88a",660037.000000000000000,6474781.000000000000000
+114,13278,Tartu Rahvusvaheline Kool,"Tartu maakond, Tartu linn, Veski tn 1",658481.000000000000000,6474591.000000000000000
+115,13279,Tartu Rahvusvaheline Lasteaed,"Tartu maakond, Tartu linn, Veski tn 1",658481.993099999963306,6474591.065000000409782
+116,13321,Tartu Tamme Gümnaasium,"Tartu maakond, Tartu linn, Tamme pst 24a",658346.000000000000000,6472396.000000000000000
+117,13271,Tartu Teoloogia Akadeemia,"Tartu maakond, Tartu linn, Ujula tn 1a",659257.048399999970570,6475262.018000000156462
+118,13326,Tartu Täiskasvanute Gümnaasium,"Tartu maakond, Tartu linn, Riia tn 142",657033.000000000000000,6471428.000000000000000
+119,13250,Tartu Waldorfgümnaasium,"Tartu maakond, Tartu linn, Ploomi tn 1",658980.000000000000000,6471251.000000000000000
+120,13242,Tartu Variku Kool,"Tartu maakond, Tartu linn, Aianduse tn 4",658935.000000000000000,6471041.000000000000000
+121,13327,Tartu Veeriku Kool,"Tartu maakond, Tartu linn, Veeriku tn 41",657155.000000000000000,6473644.000000000000000
+122,11936,Tartu võimlemisklubi „Rütmika"","Tartu maakond, Tartu linn, Kalevi tn 71",659926.015499999979511,6473274.976999999955297
+123,11955,Tartu Ülikooli Euroopa Kolledž,"Tartu maakond, Tartu linn, Lossi tänav 3",659066.000000000000000,6474300.000000000000000
+124,11957,TTÜ Tartu Kolledž,"Tartu maakond, Tartu linn, Puiestee tänav 78",659634.000000000000000,6475341.000000000000000
+125,13259,Tõravere Lasteaed Tõruke,"Tartu maakond, Nõo vald, Tõravere alevik, Observatooriumi tn 9a",644925.395299999974668,6461056.314000000245869
+126,13264,Tõrvandi Lasteaed Rüblik,"Tartu maakond, Ülenurme vald, Tõrvandi alevik, Aia tn 6a",658675.963800000026822,6467723.973000000230968
+127,13261,Unipiha Algkool,"Tartu maakond, Kambja vald, Pangodi küla, Unipiha algkool",651880.000000000000000,6454030.000000000000000
+128,13283,Valguta Lasteaed-Algkool,"Tartu maakond, Rõngu vald, Valguta küla,  Valguta kool",629695.000000000000000,6452082.000000000000000
+129,13216,Vara Lasteaed Õnnetriinu,"Tartu maakond, Vara vald, Vara küla, Pärnapargi",668410.412400000030175,6489329.692999999970198
+130,13215,Vara Põhikool,"Tartu maakond, Vara vald, Vara küla, Vara koolimaja",668355.000000000000000,6489280.000000000000000
+131,11887,Vellavere looduskeskus,"Tartu maakond, Konguta vald, Vellavere küla, Tootsi",641116.000000000000000,6459675.000000000000000
+132,13331,Võnnu Keskkool,"Tartu maakond, Võnnu vald, Võnnu alevik, Tartu tn 34",678966.000000000000000,6464341.000000000000000
+133,13332,Võnnu Lasteaed Värvuke,"Tartu maakond, Võnnu vald, Võnnu alevik, Tööstuse tee 2",678847.921899999957532,6464408.100999999791384
+134,13340,Ülenurme Gümnaasium,"Tartu maakond, Ülenurme vald, Ülenurme alevik, Tartu mnt 5",659524.000000000000000,6467783.000000000000000
+135,12006,Ülenurme Kullerkupu Lasteaed,"Tartu maakond, Ülenurme vald, Lemmatsi küla, Kullerkupu",653696.941600000020117,6468653.940000000409782
+136,13262,Ülenurme Lasteaed,"Tartu maakond, Ülenurme vald, Ülenurme alevik, Lasteaia tn 6",659592.028399999951944,6466795.991999999620020
