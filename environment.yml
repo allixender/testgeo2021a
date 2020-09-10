@@ -1,9 +1,9 @@
-name: geopy2019
+name: geopy2020b
 channels:
   - pyviz 
   - conda-forge
 dependencies:
-  - python>=3.6
+  - python=3.8
   - geopandas
   - mapclassify
   - matplotlib
@@ -12,7 +12,7 @@ dependencies:
   - descartes
   - fiona>=1.8
   - folium
-  - gdal=2.4
+  - gdal>3
   - pyproj
   - pysal>=2
   - rasterio
@@ -22,11 +22,11 @@ dependencies:
   - shapely>=1.6
   - geojson
   - geoviews
-  - geopandas>=0.5
+  - geopandas>=0.7
   - geoplot
-  - geopy
+  - geoviews
+  - datashader
   - geos
-  - bokeh
   - geographiclib
   - ipykernel
   - ipython
@@ -44,9 +44,15 @@ dependencies:
   - statsmodels
   - toolz
   - urllib3
+  - networkx
+  - osmnx
+  - earthpy
   - xarray
   - poppler
-  - sphinx=2
+  - lxml
+  - gstools
+  - pykrige
+  - sphinx=3
   - sphinxcontrib
   - sphinx_rtd_theme
 
