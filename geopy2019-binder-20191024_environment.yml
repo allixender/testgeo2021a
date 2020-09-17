@@ -1,0 +1,52 @@
+name: geopy2019
+channels:
+  - pyviz 
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - geopandas
+  - mapclassify
+  - matplotlib
+  - seaborn
+  - cartopy
+  - descartes
+  - fiona>=1.8
+  - folium
+  - gdal=2.4
+  - pyproj
+  - pysal>=2
+  - rasterio
+  - rasterstats>=0.13
+  - scikit-learn
+  - scipy
+  - shapely>=1.6
+  - geojson
+  - geoviews
+  - geopandas>=0.5
+  - geoplot
+  - geopy
+  - geos
+  - bokeh
+  - geographiclib
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyter_client
+  - matplotlib
+  - numpy
+  - owslib
+  - pandas
+  - pillow>=5.2
+  - proj4
+  - requests
+  - rtree
+  - statsmodels
+  - toolz
+  - urllib3
+  - xarray
+  - poppler
+  - sphinx=2
+  - sphinxcontrib
+  - sphinx_rtd_theme
+
