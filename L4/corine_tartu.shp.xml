@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>REQUIRED: The name of an organization or individual that developed the data set.</origin>
+				<pubdate>REQUIRED: The date when the data set is published or otherwise made available for release.</pubdate>
+				<title Sync="TRUE">clc12_Version_18_5</title><ftname Sync="TRUE">clc12_Version_18_5</ftname><geoform Sync="TRUE">vector digital data</geoform><onlink Sync="TRUE">\\GISLEKTIK\I\data\mkopecky\clc_rev18\_oprava_PL\odevzdavka93\vector\clc12_Version_18_5.gdb</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>REQUIRED: A brief narrative summary of the data set.</abstract>
+			<purpose>REQUIRED: A summary of the intentions with which the data set was developed.</purpose>
+			<langdata Sync="TRUE">cs</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>REQUIRED: The basis on which the time period of content information is determined.</current>
+		</timeperd>
+		<status>
+			<progress>REQUIRED: The state of the data set.</progress>
+			<update>REQUIRED: The frequency with which changes and additions are made to the data set after the initial data set is completed.</update>
+		</status>
+		<keywords>
+			<theme>
+				<themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt>
+				<themekey>REQUIRED: Common-use word or phrase used to describe the subject of the data set.</themekey>
+			</theme>
+		</keywords>
+		<accconst>REQUIRED: Restrictions and legal prerequisites for accessing the data set.</accconst>
+		<useconst>REQUIRED: Restrictions and legal prerequisites for using the data set after access is granted.</useconst>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">File Geodatabase Feature Class</natvform>
+		<spdom><lboundng><leftbc Sync="TRUE">-2693291.680000</leftbc><rightbc Sync="TRUE">10037209.680000</rightbc><bottombc Sync="TRUE">-3086662.310000</bottombc><topbc Sync="TRUE">5440568.300000</topbc></lboundng><bounding><westbc Sync="TRUE">-81.231079</westbc><eastbc Sync="TRUE">93.489511</eastbc><northbc Sync="TRUE">72.123059</northbc><southbc Sync="TRUE">-29.121654</southbc></bounding><minalti Sync="TRUE">0.000000</minalti><maxalti Sync="TRUE">0.000000</maxalti></spdom></idinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">D_ETRS_1989</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_ETRS_1989</geogcsn>
+				<projcsn Sync="TRUE">ETRS_1989_LAEA</projcsn></cordsysn>
+			<planar><planci><plance Sync="TRUE">coordinate pair</plance><plandu Sync="TRUE">meters</plandu><coordrep><absres Sync="TRUE">0.010000</absres><ordres Sync="TRUE">0.010000</ordres></coordrep></planci></planar></horizsys>
+		<vertdef>
+			<altsys>
+				<altres Sync="TRUE">0.000100</altres>
+				<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<distinfo>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc>
+		<stdorder><digform><digtinfo><transize Sync="TRUE">6,552</transize><dssize Sync="TRUE">6,552</dssize></digtinfo></digform></stdorder></distinfo>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+					<city>REQUIRED: The city of the address.</city>
+					<state>REQUIRED: The state or province of the address.</state>
+					<postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+				</cntaddr>
+				<cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">cs</langmeta>
+		<metd Sync="TRUE">20160609</metd></metainfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.6.0.8321</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="est" country="CZ"></languageCode>
+			<countryCode value="EST" Sync="TRUE"></countryCode></dataLang>
+		<dataScale>
+			<equScale>
+				<rfDenom>100,000</rfDenom>
+			</equScale>
+			<scaleDist>100</scaleDist>
+		</dataScale>
+		<descKeys>
+			<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"></thesaName><keyword>landcover</keyword><keyword>Corine</keyword><keyword>geographic</keyword><keyword>clc</keyword><keyword>CSI014</keyword><keyword>CLC2012</keyword></descKeys>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-81.231079</westBL>
+			<eastBL Sync="TRUE">93.489511</eastBL>
+			<northBL Sync="TRUE">72.123059</northBL>
+			<southBL Sync="TRUE">-29.121654</southBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+		<idAbs>CLC12 is one of the datasets produced within the frame the Corine Land Cover programme referring to land cover / land use status of year 2012.
+
+The Corine Land Cover (CLC) is an European programme, coordinated by the European Environment Agency (EEA), providing consistent information on land cover and land cover changes across Europe. CLC products are based on the photointerpretation of satellite images by the national teams of the participating countries - the EEA member or cooperating countries. The resulting national land cover inventories are further integrated into a seamless land cover map of Europe. The resulting European database is based on standard methodology and nomenclature with following base parameters:
+- 44 classes in the hierarchical 3-level Corine nomenclature
+- minimum mapping unit (MMU) for status layers is 25 hectares
+- minimum width of linear elements is 100 metres
+- minimum mapping unit (MMU) for Land Cover Changes (LCC) for change layers is 5 hectares
+
+CLC programme provides important data sets supporting the implementation of key priority areas of the Environment Action Programmes of the European Community as protecting ecosystems, halting the loss of biological diversity, tracking the impacts of climate change, assessing developments in agriculture and implementing the EU Water Framework Directive etc..  CLC programme is also a part of the Global Monitoring for Environment and Security (GMES http://gmes.info) initiative, run by the European Commission and the European Space Agency, which will provide environmental information from a combination of air- and space-based observation systems and in-situ monitoring. More about the Corine Land Cover (CLC) programme and datasets can be found at http://www.eea.eu.</idAbs>
+		<idCitation>
+			<resTitle>Corine Land Cover 2012 European seamless vector database: STATUS 2012 layer (CLC12)</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+			<resEd>02/2016</resEd>
+			<resRefDate><refDateType><DateTypeCd value="003"></DateTypeCd></refDateType><refDate>20160220</refDate></resRefDate><resAltTitle>CLC12 European seamless vector data</resAltTitle></idCitation>
+		<idPoC>
+			<role value="006"></role>
+			<rpCntInfo>
+				<cntAdress>
+					<delPoint>Milady Horakove 57</delPoint>
+					<eMailAdd>tomas.soukup@gisat.cz</eMailAdd>
+					<postCode>17000</postCode>
+					<city>Prague</city>
+					<adminArea></adminArea>
+					<country>The Czech Republic</country>
+				</cntAdress>
+			</rpCntInfo>
+			<rpOrgName>Gisat</rpOrgName>
+			<rpIndName>Tomas Soukup</rpIndName></idPoC>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+		<tpCat>
+			<TopicCatCd value="007"></TopicCatCd>
+		</tpCat>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="search">
+					<westBL Sync="TRUE">-55.509458</westBL>
+					<northBL Sync="TRUE">72.123059</northBL>
+					<southBL Sync="TRUE">24.494080</southBL>
+					<eastBL Sync="TRUE">71.117644</eastBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+				<GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-81.231079</westBL><eastBL Sync="TRUE">93.489511</eastBL><northBL Sync="TRUE">72.123059</northBL><southBL Sync="TRUE">-29.121654</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox><westBL>-81,2310793373522</westBL><eastBL>93,4895109833835</eastBL><northBL>72,1230587637734</northBL><southBL>-29,121653757427</southBL></geoEle>
+		</dataExt>
+		<BrfAbsEEA>CLC12 is the dataset produced within the frame the Corine Land Cover programme for year 2012</BrfAbsEEA></dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorFormat>
+				<formatName Sync="TRUE">File Geodatabase Feature Class</formatName>
+			</distorFormat>
+			<distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\GISLEKTIK\I\data\mkopecky\clc_rev18\_oprava_PL\odevzdavka93\vector\clc12_Version_18_5.gdb</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">6.194</transSize></distorTran></distributor>
+		<distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo>
+	<dqInfo>
+		<dataLineage>
+			<statement>Vector CLC database was provided by National Teams within original CLC1990, I&amp;CLC2000 update, FTSP/CLC2006 update and CLC2012 projects. All features in original vector database were classified and digitised based on satellite images with 100 m positional accuracy (according to CLC specifications) and 25 ha minimum mapping unit into the standardized CLC nomenclature (44 CLC classes).
+
+European Corine Land Cover seamless DBs represent the final product of European data integration. The process of data integration started when national  deliveries have been accepted and the Database Acceptance Report (DBTA) delivered . Delivered national data were produced in local national systems of all participating countries. Each national Coordinate Reference System (CRS) definition had to be known precisely together with its geometric relationship to a standard system in order to accurately transfer all national data into a standard European coordinate reference - ETRS89/LAEA1052.
+Mostly, the process itself was carried out by global equation-based transformation to ETRS89 (e.g. seven-parameters Bursa-Wolf methods). The accuracy of a particular transformation ranges from centimetres to meters depending on the method and the quality and number of control points available to define the transformation parameters, but, in any case, the accuracy is far above the actual CLC data resolution (for more details see the DBTA reports for particular country). National data, when transformed into the common European reference, are introduced into tiled pan-European structure and as final step seamless dataset is produced. 
+
+In order to achieve production of the real seamless European database, the integration step includes also harmonization of database along country borders. It consists from edge-matching of land cover polygons from the national databases across national borders done by a verification / re-interpretation of the satellite images in the border regions (2 km wide strip along borders). The satellite images from IMAGE2000. CLC90, CHA00 and CLC00 database were harmonized this way, but the order to priority was as following: CLC2000, both geometric and thematic adaptations of all polygons in a 2 km strip along national boundary lines; CHA00 database to ensure that
+changes in CLC2000 are consistent with the change database; corrected CLC90 (if provided by the MS); corrections were focused to geometric adaptations in semi-automatical way based on CLC00 and CHA00 databases. Border harmonization step has been skipped for CHA06, CHA12 and CLC12 datasets. Simplified harmonization step for CLC06 dataset has been created for these countries: CH, NO, KO, TR, IE.
+A simplified border matching has been applied:
+- &lt;25 ha polygons are NOT systematically removed (see next bullet).
+- Sliver-like polygons (area &lt; cca. 5 ha - soft limit) are generalised to largest or thematically most similar neighbour.
+- CLC-code differences in polygons along two sides of the border are NOT changed
+Only polygons with area &lt;= 0,1ha were eliminated in CHA06, CHA12 and for CLC12 datasets and CLC06 dataset (besides the above-mentioned cases) and in parts newly added in campaigns 2006 and 2012 too
+
+Note: Some artificial lines (dividing polygons with the same code) can be still present in database due to technical constraints of current ArcGIS technology, but has no impact for dataset contents and can be dissolved for data extracts.</statement>
+		</dataLineage>
+		<DataChgEEA>Version 18 (v8) (02/2016)
+Production date: February 20th, 2016
+
+
+Release history:
+
+V8: 02/2016 - Initial version</DataChgEEA>
+		<PubStaEEA>Ready for publish</PubStaEEA></dqInfo>
+	<Esri>
+		<CreaDate>20160609</CreaDate>
+		<ModDate>20181113</ModDate>
+		<ModTime>07153300</ModTime>
+		<SyncDate>20181113</SyncDate>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncTime>07153300</SyncTime>
+		<CreaTime>00380000</CreaTime>
+		<DataProperties><lineage><Process Name="Update (10)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20091010" Time="042012">Update C:\DATA\mirek_clc_samles_no_gr\puvodni_hranicni\clc00_100KME45N46.shp C:\DATA\mirek_clc_samles_no_gr\no_hranicni\NO_100KME45N46.shp C:\DATA\mirek_clc_samles_no_gr\puvodni_hranicni\clc00_100KME45N46_Update.shp BORDERS #</Process><Process Name="Dissolve (10)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20091010" Time="042630">Dissolve C:\DATA\mirek_clc_samles_no_gr\puvodni_hranicni\clc00_100KME45N46_Update.shp C:\DATA\mirek_clc_samles_no_gr\puvodni_hranicni\clc00_100KME45N46_Update_Dis.shp code_00 "area_ha SUM;Shape_Area SUM;remark FIRST;id FIRST" SINGLE_PART DISSOLVE_LINES</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20091010" Time="172116">CopyFeatures C:\DATA\mirek_clc_samles_no_gr\puvodni_hranicni\clc00_100KME45N46_Update_Dis.shp C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis # 0 0 0</Process><Process Name="Add Field (28)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20091010" Time="182635">AddField C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis ID TEXT # # 18 # NULLABLE NON_REQUIRED # C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis</Process><Process Name="Add Field (29)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20091010" Time="182636">AddField C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis area_ha DOUBLE # # 18 # NULLABLE REQUIRED # C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis</Process><Process Name="Add Field (30)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20091010" Time="182636">AddField C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis Remark TEXT # # 20 # NULLABLE REQUIRED # C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis</Process><Process Name="Calculate Field (28)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20091010" Time="183245">CalculateField C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis area_ha "[Shape_Area] /10000" VB # C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis</Process><Process Name="Calculate Field (29)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20091010" Time="183247">CalculateField C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis FIRST_id [OBJECTID] VB # C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis</Process><Process Name="Calculate Field (30)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20091010" Time="183250">CalculateField C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis ID [FIRST_id] VB # C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis</Process><Process Name="Calculate Field (76)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20091010" Time="183752">CalculateField C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis ID "EU-"+ID VB # C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis</Process><Process Name="Delete Field (10)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20091010" Time="184223">DeleteField C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis SUM_area_h;SUM_Shape_;FIRST_rema;FIRST_id C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20091010" Time="190958">CopyFeatures C:\DATA\mirek_clc_samles_no_gr\topo_control_gr_no.gdb\no\clc00_100KME45N46_Update_Dis C:\DATA\mirek_clc_samles_no_gr\odevzdavka_NO\clc00_100KME45N46_Update_Dis.shp # 0 0 0</Process><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20110719" Time="022724">Update clc00 clc00_pod_5ha_Eliminate F:\_works\clc_rel15\clc_06_rel15.gdb\clc00_Update_5ha BORDERS #</Process><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20110719" Time="045217">Update clc00_Update_5ha clc00_k_oprave F:\_works\clc_rel15\clc_06_rel15.gdb\clc00_Update_5ha_v2 BORDERS #</Process><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20110719" Time="132730">Update clc00_Update_5ha_v2 clc00_523 F:\_works\clc_rel15\clc_06_rel15.gdb\clc00_Update_5ha_v3 BORDERS #</Process><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20110719" Time="171551">Dissolve clc00_Update_5ha_v3_bez_523 F:\_works\clc_rel15\clc_06_rel15.gdb\clc00_Update_5ha_v3_bez_523_diss code_00 # SINGLE_PART DISSOLVE_LINES</Process><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20110719" Time="201429">Update clc00_Update_5ha_v3_bez_523_diss clc00_523_v3 F:\_works\clc_rel15\clc_06_rel15.gdb\clc00_Update_5ha_v4 BORDERS #</Process><Process Name="Add Field" ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20110720" Time="082347">AddField clc00_Update_5ha_v4 ID TEXT # # 18 # NULLABLE NON_REQUIRED #</Process><Process Name="Add Field (2)" ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20110720" Time="082347">AddField clc00_Update_5ha_v4 ID_pom LONG # # # # NULLABLE NON_REQUIRED #</Process><Process Name="Add Field (3)" ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20110720" Time="082347">AddField clc00_Update_5ha_v4 Remark TEXT # # 20 # NULLABLE NON_REQUIRED #</Process><Process Name="Add Field (4)" ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20110720" Time="082347">AddField clc00_Update_5ha_v4 Area_ha DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process Name="Calculate Field (4)" ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20110720" Time="083025">CalculateField clc00_Update_5ha_v4 ID_pom [OBJECTID] VB #</Process><Process Name="Calculate Field (3)" ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20110720" Time="083343">CalculateField clc00_Update_5ha_v4 ID [ID_pom] VB #</Process><Process Name="Calculate Field (2)" ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20110720" Time="083712">CalculateField clc00_Update_5ha_v4 ID ""EU-"+ [ID]" VB #</Process><Process Name="Calculate Field" ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20110720" Time="084045">CalculateField clc00_Update_5ha_v4 Area_ha [Shape_Area]/10000 VB #</Process><Process Name="Delete Field" ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20110720" Time="084924">DeleteField clc00_Update_5ha_v4 ID_pom</Process><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20110720" Time="091729">CopyFeatures F:\_works\clc_rel15\clc_06_rel15.gdb\clc00_Update_5ha_v4 F:\_works\clc_rel15\clc06_rel15_9_3.gdb\clc00_Update_5ha_v4 # 0 0 0</Process><Process ToolSource="c:\program files\arcgis\desktop10.0\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20120418" Time="024225">Update clc00 opravena_mt00 F:\_works\clc2000_revised\output\clc06_rel16.gdb\clc00_updated BORDERS #</Process><Process ToolSource="c:\program files\arcgis\desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20120418" Time="031557">CopyFeatures F:\_works\clc2000_revised\output\clc06_rel16.gdb\clc00_updated F:\_works\clc2000_revised\output\_93\clc06_rel16.gdb\clc00_updated # 0 0 0</Process><Process Name="Update" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20131127" Time="022338">Update clc00 clc00_RAA_GOC_25km_buff_Upda1 H:\MIREK\clc_rev17\clc2006_rel16.gdb\clc00_Update BORDERS #</Process><Process Name="Calculate Field (3)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20131127" Time="154806">CalculateField clc00_Update ID [OBJECTID] VB # clc00_Update</Process><Process Name="Calculate Field (8)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20131127" Time="155156">CalculateField clc00_Update ID ""EU-"+ [ID]" VB # clc00_Update</Process><Process Name="Calculate Field (3)" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20131127" Time="163752">CalculateField clc00_Update Area_Ha [Shape_Area]/10000 VB # clc00_Update</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150501" Time="095635">CalculateField clc00_final ID [OBJECTID] VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150501" Time="101316">CalculateField clc00_final ID ""EU-"+ [ID]" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150501" Time="101737">CalculateField clc00_final Area_Ha [Shape_Area]/10000 VB #</Process><Process ToolSource="c:\program files\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField" Date="20150504" Time="152806">JoinField clc00_final code_00 Export_Output CLC_CODE GRID_CODE</Process><Process Name="Delete Field (3)" ToolSource="c:\program files\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20150505" Time="234347">DeleteField C:\DATA\mirek\leac\seamles\z_mk\clc00_pracovni.gdb\clc00_final GRID_CODE</Process><Process Name="Join Field" ToolSource="c:\program files\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField" Date="20150507" Time="010137">JoinField clc00_final code_00 C:\DATA\mirek\leac\seamles\Export_Output.dbf CLC_CODE GRID_CODE</Process><Process Name="Delete Field (6)" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20150507" Time="213538">DeleteField clc00_final GRID_CODE</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150727" Time="184429">CalculateField clc06_more_oprava_gr code_06 [code_00] VB #</Process><Process Name="Update" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20150727" Time="203310">Update clc06_more_oprava_gr clc06_upd_gr D:\DATA\_works\clc2012_seamless\etapa2\clc12_work_1dm.gdb\clc12_1dm\clc06_upd_gr_a_oprava_more BORDERS #</Process><Process Name="Erase" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Analysis Tools.tbx\Erase" Date="20150728" Time="203003">Erase clc06_upd_gr_a_oprava_more clc06_more_oprava_gr_vyrezy2sp D:\DATA\_works\clc2012_seamless\etapa2\clc12_work_1dm.gdb\clc12_1dm\clc06_upd_gr_a_oprava_more_vyrizla #</Process><Process Name="Add Field" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150731" Time="150500">AddField clc06_pref3 ID TEXT # # 18 # NULLABLE NON_REQUIRED #</Process><Process Name="Add Field (2)" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150731" Time="150500">AddField clc06_pref3 Remark TEXT # # 20 # NULLABLE NON_REQUIRED #</Process><Process Name="Add Field (3)" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20150731" Time="150500">AddField clc06_pref3 Area?ha DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process Name="Calculate Field" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150731" Time="151104">CalculateField clc06_pref3 ID [OBJECTID] VB #</Process><Process Name="Calculate Field (2)" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150731" Time="151439">CalculateField clc06_pref3 ID ""EU-"+ [ID]" VB #</Process><Process Name="Calculate Field (3)" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20150731" Time="151812">CalculateField clc06_pref3 Area_ha "[Shape_Area] /10000" VB #</Process><Process Name="Dissolve" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20160128" Time="165612">Dissolve clc06_Version_18_4 D:\DATA\mkopecky\clc2012_18_5\clc12_1dm_work.gdb\clc12\more_base06 # # SINGLE_PART DISSOLVE_LINES</Process><Process Name="Update" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20160128" Time="180700">Update D:\DATA\mkopecky\clc2012_18_5\clc12_1dm_work.gdb\clc12\more_base06 D:\DATA\mkopecky\clc2012_18_5\clc12_1dm_work.gdb\clc12\more_base12 C:\Users\gisat.GISAT\Documents\ArcGIS\Default.gdb\more_base06_Update BORDERS #</Process><Process Name="Dissolve (3)" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20160128" Time="181216">Dissolve C:\Users\gisat.GISAT\Documents\ArcGIS\Default.gdb\more_base06_Update D:\DATA\mkopecky\clc2012_18_5\clc12_1dm_work.gdb\clc12\more_base_complet # # SINGLE_PART DISSOLVE_LINES</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160129" Time="103459">CalculateField more_base_complet code_12 "523" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20160129" Time="131501">Update more_base_complet pevnina_komplet_final_CA D:\DATA\mkopecky\clc2012_18_5\clc12_1dm_work.gdb\clc12\clc12_v18_5_prefinal BORDERS #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20160129" Time="144557">CopyFeatures D:\DATA\mkopecky\clc2012_18_5\clc12_1dm_work.gdb\clc12\clc12_v18_5_prefinal D:\DATA\mkopecky\clc2012_18_5\clc12_18_5_topo_checks.gdb\clc\clc12_v18_5_prefinal # 0 0 0</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Analysis Tools.tbx\Buffer" Date="20160209" Time="122026">Buffer clc12_v18_5_prefinal D:\DATA\mkopecky\clc2012_18_5\clc12_1dm_work.gdb\clc12\more_base_afrika "25000 Meters" FULL ROUND ALL #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Analysis Tools.tbx\Erase" Date="20160209" Time="122319">Erase more_base_afrika CNTR_RG_100K_2010_XK D:\DATA\mkopecky\clc2012_18_5\clc12_1dm_work.gdb\clc12\more_base_afrika2 #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160209" Time="124426">CalculateField more_base_afrika2 code_12 "512" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160209" Time="124438">CalculateField more_base_afrika2 code_12 "523" VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Analysis Tools.tbx\Update" Date="20160209" Time="151718">Update more_base_afrika2 clc12_v18_5_prefinal D:\DATA\mkopecky\clc2012_18_5\clc12_1dm_work.gdb\clc12\clc12_v18_5_final BORDERS #</Process><Process Name="Add Field" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20160209" Time="154502">AddField clc12_v18_5_final ID TEXT # # 18 # NULLABLE NON_REQUIRED #</Process><Process Name="Add Field (2)" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20160209" Time="154502">AddField clc12_v18_5_final Remark TEXT # # 20 # NULLABLE NON_REQUIRED #</Process><Process Name="Add Field (3)" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20160209" Time="154502">AddField clc12_v18_5_final Area_Ha DOUBLE # # # # NULLABLE NON_REQUIRED #</Process><Process Name="Calculate Field" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160209" Time="154701">CalculateField clc12_v18_5_final ID [OBJECTID] VB #</Process><Process Name="Calculate Field (2)" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160209" Time="154906">CalculateField clc12_v18_5_final ID ""EU-"+ [ID]" VB #</Process><Process Name="Calculate Field (3)" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160209" Time="155111">CalculateField clc12_v18_5_final Area_Ha [Shape_Area]/10000 VB #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField" Date="20160209" Time="164123">JoinField clc12_v18_5_final code_12 D:\DATA\mkopecky\clc2012_18_5\final_checks\clc_legend.dbf CLC_CODE GRID_CODE</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20160221" Time="180637">CopyFeatures D:\DATA\mkopecky\clc2012_18_5\10.2\clc12_Version_18_5.gdb\clc12_Version_18_5 D:\DATA\mkopecky\clc2012_18_5\clc12_Version_18_5.gdb\clc12_Version_18_5 # 0 0 0</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160409" Time="083145">CalculateField clc12_Version_18_5_sp code_12 "999" VB #</Process><Process Name="Calculate Field" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160409" Time="164355">CalculateField clc12_Version_18_5_sp ID [OBJECTID] VB #</Process><Process Name="Calculate Field (2)" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160409" Time="164811">CalculateField clc12_Version_18_5_sp ID ""EU-"+ [ID]" VB #</Process><Process Name="Calculate Field (3)" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20160409" Time="165110">CalculateField clc12_Version_18_5_sp Area_Ha [Shape_Area]/10000 VB #</Process><Process Name="Delete Field" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20160409" Time="165247">DeleteField clc12_Version_18_5_sp ORIG_FID</Process><Process Name="Delete Field (2)" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20160413" Time="174225">DeleteField D:\DATA\_works\clc2012_seamless\rel18_5_delivery\oprava_canary\clc12_version_18_5a.gdb\clc12_Version_18_5_sp GRID_CODE</Process><Process Name="Join Field (2)" ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField" Date="20160605" Time="020124">JoinField clc12_Version_18_5 code_12 D:\DATA\_works\clc2012_seamless\rel18_5_delivery\clc_legend.dbf CLC_CODE GRID_CODE</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Analysis Tools.tbx\Clip" Date="20181113" Time="071555">Clip clc12_Version_18_5 maakond_20181101 C:\Users\Evelyn\geopython_course\Data\corine_tartu.shp #</Process></lineage><itemProps><itemName Sync="TRUE">corine_tartu</itemName><imsContentType Sync="TRUE">002</imsContentType><itemLocation><linkage Sync="TRUE">file://\\LTOM-KEVELYN\Users\Evelyn\geopython_course\Data\corine_tartu.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><nativeExtBox><westBL Sync="TRUE">918863.650000</westBL><eastBL Sync="TRUE">7316583.450000</eastBL><southBL Sync="TRUE">916357.410000</southBL><northBL Sync="TRUE">5440568.300000</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemSize Sync="TRUE">0.000</itemSize></itemProps><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_ETRS_1989</geogcsn><projcsn Sync="TRUE">ETRS_1989_LAEA</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;ETRS_1989_LAEA&amp;quot;,GEOGCS[&amp;quot;GCS_ETRS_1989&amp;quot;,DATUM[&amp;quot;D_ETRS_1989&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Azimuthal_Equal_Area&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,4321000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,3210000.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,10.0],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,52.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,3035]]&lt;/WKT&gt;&lt;XOrigin&gt;-8426600&lt;/XOrigin&gt;&lt;YOrigin&gt;-9526700&lt;/YOrigin&gt;&lt;XYScale&gt;353290001.83332509&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;3035&lt;/WKID&gt;&lt;LatestWKID&gt;3035&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml><csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits></coordRef></DataProperties><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle></Esri>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdConst>
+		<accessConsts>
+			<RestrictCd value="007"></RestrictCd>
+		</accessConsts>
+		<othConsts>Non-commercial use</othConsts>
+	</mdConst>
+	<mdContact>
+		<rpIndName>Andreas Littkopf</rpIndName>
+		<role>
+			<RoleCd>007</RoleCd>
+		</role>
+		<rpOrgName>European Topic Centre on Urban, land and soil systems (ETC ULS)</rpOrgName>
+		<rpCntInfo>
+			<cntAddress>
+				<delPoint>Environment Agency Austria, Spittelauer Lande 5</delPoint>
+				<city>Wien</city>
+				<adminArea></adminArea>
+				<postCode>1090</postCode>
+				<country>Austria</country>
+				<eMailAdd>andreas.littkopf@umweltbundesamt.at</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+	</mdContact>
+	<mdDateSt>20160609</mdDateSt>
+	<mdExtInfo>
+		<extEleInfo>
+			<extEleName>EEABriefAbstract</extEleName>
+			<extEleParEnt>Metadata/dataIdInfo/</extEleParEnt>
+			<extShortName>BrfAbsEEA</extShortName>
+			<extEleDef>Brief narrative summary of the content of the dataset (max. 100 characters)</extEleDef>
+			<eleDataType value="014"></eleDataType>
+		</extEleInfo>
+		<extEleInfo>
+			<extEleName>EEADatasetChanges</extEleName>
+			<extEleParEnt>Metadata/dqInfo/</extEleParEnt>
+			<extShortName>DataChgEEA</extShortName>
+			<extEleDef>Changes since last version of dataset</extEleDef>
+			<eleDataType value="014"></eleDataType>
+		</extEleInfo>
+		<extEleInfo><extEleName>EEAPublishStatus</extEleName><extShortName>PubStaEEA</extShortName><extEleDef>Dataset and metadata publish status</extEleDef><eleDataType value="014"></eleDataType><extEleParEnt>Metadata/dqInfo/</extEleParEnt></extEleInfo></mdExtInfo>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<mdLang>
+		<languageCode Sync="TRUE" value="est"></languageCode>
+		<countryCode value="EST" Sync="TRUE"></countryCode></mdLang>
+	<mdStanName>EEA-MSGI/ISO19115 (First Edition)</mdStanName>
+	<mdStanVer>EEA-MSGI 1.1d</mdStanVer>
+	<refSysInfo>
+		<refSysName>
+			<identCode>ETRS_1989_LAEA</identCode></refSysName>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE" code="3035" value="3035">ETRS_1989_LAEA</identCode>
+				<idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">8.1(9.0.0)</idVersion></refSysID>
+		</RefSystem>
+		<datum>
+			<identCode>D_ETRS_1989</identCode></datum>
+		<ellipsoid>
+			<identCode>GRS_1980</identCode>
+			<semiMajAx>6378137</semiMajAx><axisUnits>Degrees</axisUnits><denFlatRat>3,35281068118232E-03</denFlatRat></ellipsoid>
+		<projection>
+			<latProjCnt></latProjCnt>
+			<stanParal></stanParal><identCode>Lambert_Azimuthal_Equal_Area</identCode><stanParal></stanParal><longCntMer>10</longCntMer><latProjOri>52</latProjOri><falEastng>4321000</falEastng><falNorthng>3210000</falNorthng><falENUnits>Meter</falENUnits><sclFacEqu></sclFacEqu><longProjCnt></longProjCnt></projection>
+	</refSysInfo>
+	<dataqual><lineage><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\__WORK__\LUSI\exportCLC00.xml</srcused><date Sync="TRUE">20090909</date><time Sync="TRUE">16180200</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DATA\mirek\nova_metadata\clc00.xml</srcused><procdate Sync="TRUE">20100419</procdate><proctime Sync="TRUE">21405000</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DATA\mirek\nova_metadata\clc00_new.xml</srcused><procdate Sync="TRUE">20101021</procdate><proctime Sync="TRUE">09332900</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DATA\mirek\nova_metadata\clc00_v2.xml</srcused><procdate Sync="TRUE">20101102</procdate><proctime Sync="TRUE">14362100</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DATA\mirek\clc06_rel15\clc00.xml</srcused><procdate Sync="TRUE">20110727</procdate><proctime Sync="TRUE">02131500</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\GISLEKTIK\H\MIREK\clc00_v16_tr\flash\clc06_rel16.gdb</srcused><procdate Sync="TRUE">20120418</procdate><proctime Sync="TRUE">03593700</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\GISLEKTIK\H\MIREK\clc_rev17\clc2006_rel16.gdb</srcused><procdate Sync="TRUE">20131128</procdate><proctime Sync="TRUE">12182500</proctime></procstep></lineage></dataqual><spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf><esriterm Name="corine_tartu"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">TRUE</linrefer></esriterm></ptvctinf></spdoinfo><spatRepInfo><VectSpatRep><geometObjs Name="corine_tartu"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><eainfo><detailed Name="corine_tartu"><enttyp><enttypl Sync="TRUE">corine_tartu</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">code_12</attrlabl><attalias Sync="TRUE">code_12</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ID</attrlabl><attalias Sync="TRUE">ID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">18</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Remark</attrlabl><attalias Sync="TRUE">Remark</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Area_Ha</attrlabl><attalias Sync="TRUE">Area_Ha</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape_Leng</attrlabl><attalias Sync="TRUE">Shape_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape_Area</attrlabl><attalias Sync="TRUE">Shape_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed></eainfo></metadata>

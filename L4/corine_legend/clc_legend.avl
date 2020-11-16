@@ -1,0 +1,2175 @@
+/3.1
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	31
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	189
+	Class:	190
+	Class:	193
+	Class:	196
+	Class:	199
+	Class:	202
+	Class:	205
+	Class:	208
+	Class:	211
+	Class:	214
+	Class:	217
+	Class:	220
+	Class:	223
+	Class:	226
+	Class:	229
+	Class:	232
+	Class:	235
+	Class:	238
+	Class:	241
+	Class:	244
+	Class:	247
+	Class:	250
+	Class:	253
+	Class:	256
+	Class:	259
+	Class:	262
+	Class:	265
+	Class:	268
+	Class:	271
+	Class:	274
+	Class:	277
+	Class:	280
+	Class:	283
+	Class:	286
+	Class:	289
+	Class:	292
+	Class:	295
+	Class:	298
+	Class:	301
+	Class:	304
+	Class:	307
+	Class:	310
+	Class:	313
+	Class:	316
+	Class:	319
+	Class:	322
+	StdDevs:	1.00000000000000
+	NullSym:	323
+	NullValues:	327
+	StatValues:	328
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Kod"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+	Child:	17
+	Child:	21
+	Child:	25
+	Child:	29
+	Child:	33
+	Child:	37
+	Child:	41
+	Child:	45
+	Child:	49
+	Child:	53
+	Child:	57
+	Child:	61
+	Child:	65
+	Child:	69
+	Child:	73
+	Child:	77
+	Child:	81
+	Child:	85
+	Child:	89
+	Child:	93
+	Child:	97
+	Child:	101
+	Child:	105
+	Child:	109
+	Child:	113
+	Child:	117
+	Child:	121
+	Child:	125
+	Child:	129
+	Child:	133
+	Child:	137
+	Child:	141
+	Child:	145
+	Child:	149
+	Child:	153
+	Child:	157
+	Child:	161
+	Child:	165
+	Child:	169
+	Child:	173
+	Child:	177
+	Child:	181
+	Child:	185
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	1.00000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xff00
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Name:	"Transparent"
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	1.00000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0xe600
+	Blue:	0x4d00
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Name:	"Transparent"
+)
+
+(BShSym.13
+	Color:	14
+	Outline:	1
+	OutlineColor:	15
+	OutlineWidth:	1.00000000000000
+	BgColor:	16
+)
+
+(TClr.14
+	Red:	0xff00
+)
+
+(TClr.15
+)
+
+(TClr.16
+	Name:	"Transparent"
+)
+
+(BShSym.17
+	Color:	18
+	Outline:	1
+	OutlineColor:	19
+	OutlineWidth:	1.00000000000000
+	BgColor:	20
+)
+
+(TClr.18
+	Red:	0xb300
+	Green:	0x3300
+	Blue:	0xe600
+)
+
+(TClr.19
+)
+
+(TClr.20
+	Name:	"Transparent"
+)
+
+(BShSym.21
+	Color:	22
+	Outline:	1
+	OutlineColor:	23
+	OutlineWidth:	1.00000000000000
+	BgColor:	24
+)
+
+(TClr.22
+	Red:	0xcc00
+)
+
+(TClr.23
+)
+
+(TClr.24
+	Name:	"Transparent"
+)
+
+(BShSym.25
+	Color:	26
+	Outline:	1
+	OutlineColor:	27
+	OutlineWidth:	1.00000000000000
+	BgColor:	28
+)
+
+(TClr.26
+	Red:	0xe600
+	Green:	0xb300
+	Blue:	0xb300
+)
+
+(TClr.27
+)
+
+(TClr.28
+	Name:	"Transparent"
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	1.00000000000000
+	BgColor:	32
+)
+
+(TClr.30
+	Red:	0xd900
+	Green:	0xbf00
+	Blue:	0xd900
+)
+
+(TClr.31
+)
+
+(TClr.32
+	Name:	"Transparent"
+)
+
+(BShSym.33
+	Color:	34
+	Outline:	1
+	OutlineColor:	35
+	OutlineWidth:	1.00000000000000
+	BgColor:	36
+)
+
+(TClr.34
+	Red:	0xa800
+	Blue:	0xcf00
+)
+
+(TClr.35
+)
+
+(TClr.36
+	Name:	"Transparent"
+)
+
+(BShSym.37
+	Color:	38
+	Outline:	1
+	OutlineColor:	39
+	OutlineWidth:	1.00000000000000
+	BgColor:	40
+)
+
+(TClr.38
+	Red:	0xa600
+	Green:	0x4d00
+)
+
+(TClr.39
+)
+
+(TClr.40
+	Name:	"Transparent"
+)
+
+(BShSym.41
+	Color:	42
+	Outline:	1
+	OutlineColor:	43
+	OutlineWidth:	1.00000000000000
+	BgColor:	44
+)
+
+(TClr.42
+	Red:	0xff00
+	Green:	0x4d00
+	Blue:	0xff00
+)
+
+(TClr.43
+)
+
+(TClr.44
+	Name:	"Transparent"
+)
+
+(BShSym.45
+	Color:	46
+	Outline:	1
+	OutlineColor:	47
+	OutlineWidth:	1.00000000000000
+	BgColor:	48
+)
+
+(TClr.46
+	Red:	0xff00
+	Green:	0xa600
+	Blue:	0xff00
+)
+
+(TClr.47
+)
+
+(TClr.48
+	Name:	"Transparent"
+)
+
+(BShSym.49
+	Color:	50
+	Outline:	1
+	OutlineColor:	51
+	OutlineWidth:	1.00000000000000
+	BgColor:	52
+)
+
+(TClr.50
+	Red:	0xff00
+	Green:	0xe600
+	Blue:	0xff00
+)
+
+(TClr.51
+)
+
+(TClr.52
+	Name:	"Transparent"
+)
+
+(BShSym.53
+	Color:	54
+	Outline:	1
+	OutlineColor:	55
+	OutlineWidth:	1.00000000000000
+	BgColor:	56
+)
+
+(TClr.54
+	Red:	0xff00
+	Green:	0xff00
+	Blue:	0xa800
+)
+
+(TClr.55
+)
+
+(TClr.56
+	Name:	"Transparent"
+)
+
+(BShSym.57
+	Color:	58
+	Outline:	1
+	OutlineColor:	59
+	OutlineWidth:	1.00000000000000
+	BgColor:	60
+)
+
+(TClr.58
+	Red:	0xff00
+	Green:	0xe600
+	Blue:	0x4d00
+)
+
+(TClr.59
+)
+
+(TClr.60
+	Name:	"Transparent"
+)
+
+(BShSym.61
+	Color:	62
+	Outline:	1
+	OutlineColor:	63
+	OutlineWidth:	1.00000000000000
+	BgColor:	64
+)
+
+(TClr.62
+	Red:	0xe600
+	Green:	0x8000
+	Blue:	0x8000
+)
+
+(TClr.63
+)
+
+(TClr.64
+	Name:	"Transparent"
+)
+
+(BShSym.65
+	Color:	66
+	Outline:	1
+	OutlineColor:	67
+	OutlineWidth:	1.00000000000000
+	BgColor:	68
+)
+
+(TClr.66
+	Red:	0xd900
+	Green:	0x6600
+)
+
+(TClr.67
+)
+
+(TClr.68
+	Name:	"Transparent"
+)
+
+(BShSym.69
+	Color:	70
+	Outline:	1
+	OutlineColor:	71
+	OutlineWidth:	1.00000000000000
+	BgColor:	72
+)
+
+(TClr.70
+	Red:	0xf200
+	Green:	0xa600
+)
+
+(TClr.71
+)
+
+(TClr.72
+	Name:	"Transparent"
+)
+
+(BShSym.73
+	Color:	74
+	Outline:	1
+	OutlineColor:	75
+	OutlineWidth:	1.00000000000000
+	BgColor:	76
+)
+
+(TClr.74
+	Red:	0xe4ff
+	Green:	0xa144
+	Blue:	0xe4
+)
+
+(TClr.75
+)
+
+(TClr.76
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.77
+	Color:	78
+	Outline:	1
+	OutlineColor:	79
+	OutlineWidth:	1.00000000000000
+	BgColor:	80
+)
+
+(TClr.78
+	Red:	0xf200
+	Green:	0xf200
+	Blue:	0x4d00
+)
+
+(TClr.79
+)
+
+(TClr.80
+	Name:	"Transparent"
+)
+
+(BShSym.81
+	Color:	82
+	Outline:	1
+	OutlineColor:	83
+	OutlineWidth:	1.00000000000000
+	BgColor:	84
+)
+
+(TClr.82
+	Red:	0xff00
+	Green:	0xe600
+	Blue:	0xa600
+)
+
+(TClr.83
+)
+
+(TClr.84
+	Name:	"Transparent"
+)
+
+(BShSym.85
+	Color:	86
+	Outline:	1
+	OutlineColor:	87
+	OutlineWidth:	1.00000000000000
+	BgColor:	88
+)
+
+(TClr.86
+	Red:	0xff00
+	Green:	0xff00
+)
+
+(TClr.87
+)
+
+(TClr.88
+	Name:	"Transparent"
+)
+
+(BShSym.89
+	Color:	90
+	Outline:	1
+	OutlineColor:	91
+	OutlineWidth:	1.00000000000000
+	BgColor:	92
+)
+
+(TClr.90
+	Red:	0xff00
+	Green:	0xcc00
+	Blue:	0x4d00
+)
+
+(TClr.91
+)
+
+(TClr.92
+	Name:	"Transparent"
+)
+
+(BShSym.93
+	Color:	94
+	Outline:	1
+	OutlineColor:	95
+	OutlineWidth:	1.00000000000000
+	BgColor:	96
+)
+
+(TClr.94
+	Red:	0xf200
+	Green:	0xcc00
+	Blue:	0xa500
+)
+
+(TClr.95
+)
+
+(TClr.96
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.97
+	Color:	98
+	Outline:	1
+	OutlineColor:	99
+	OutlineWidth:	1.00000000000000
+	BgColor:	100
+)
+
+(TClr.98
+	Red:	0x8000
+	Green:	0xff00
+)
+
+(TClr.99
+)
+
+(TClr.100
+	Name:	"Transparent"
+)
+
+(BShSym.101
+	Color:	102
+	Outline:	1
+	OutlineColor:	103
+	OutlineWidth:	1.00000000000000
+	BgColor:	104
+)
+
+(TClr.102
+	Green:	0xa600
+)
+
+(TClr.103
+)
+
+(TClr.104
+	Name:	"Transparent"
+)
+
+(BShSym.105
+	Color:	106
+	Outline:	1
+	OutlineColor:	107
+	OutlineWidth:	1.00000000000000
+	BgColor:	108
+)
+
+(TClr.106
+	Red:	0x4d00
+	Green:	0xe600
+)
+
+(TClr.107
+)
+
+(TClr.108
+	Name:	"Transparent"
+)
+
+(BShSym.109
+	Color:	110
+	Outline:	1
+	OutlineColor:	111
+	OutlineWidth:	1.00000000000000
+	BgColor:	112
+)
+
+(TClr.110
+	Red:	0xcc00
+	Green:	0xe600
+	Blue:	0x4d00
+)
+
+(TClr.111
+)
+
+(TClr.112
+	Name:	"Transparent"
+)
+
+(BShSym.113
+	Color:	114
+	Outline:	1
+	OutlineColor:	115
+	OutlineWidth:	1.00000000000000
+	BgColor:	116
+)
+
+(TClr.114
+	Red:	0xa500
+	Green:	0xfe00
+	Blue:	0x7f00
+)
+
+(TClr.115
+)
+
+(TClr.116
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.117
+	Color:	118
+	Outline:	1
+	OutlineColor:	119
+	OutlineWidth:	1.00000000000000
+	BgColor:	120
+)
+
+(TClr.118
+	Red:	0xa500
+	Green:	0xe500
+	Blue:	0x4c00
+)
+
+(TClr.119
+)
+
+(TClr.120
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.121
+	Color:	122
+	Outline:	1
+	OutlineColor:	123
+	OutlineWidth:	1.00000000000000
+	BgColor:	124
+)
+
+(TClr.122
+	Red:	0xa600
+	Green:	0xe600
+)
+
+(TClr.123
+)
+
+(TClr.124
+	Name:	"Transparent"
+)
+
+(BShSym.125
+	Color:	126
+	Outline:	1
+	OutlineColor:	127
+	OutlineWidth:	1.00000000000000
+	BgColor:	128
+)
+
+(TClr.126
+	Red:	0xe600
+	Green:	0xe600
+	Blue:	0xe600
+)
+
+(TClr.127
+)
+
+(TClr.128
+	Name:	"Transparent"
+)
+
+(BShSym.129
+	Color:	130
+	Outline:	1
+	OutlineColor:	131
+	OutlineWidth:	1.00000000000000
+	BgColor:	132
+)
+
+(TClr.130
+	Red:	0xcc00
+	Green:	0xcc00
+	Blue:	0xcc00
+)
+
+(TClr.131
+)
+
+(TClr.132
+	Name:	"Transparent"
+)
+
+(BShSym.133
+	Color:	134
+	Outline:	1
+	OutlineColor:	135
+	OutlineWidth:	1.00000000000000
+	BgColor:	136
+)
+
+(TClr.134
+	Red:	0xbf00
+	Green:	0xfe00
+	Blue:	0xb200
+)
+
+(TClr.135
+)
+
+(TClr.136
+	Name:	"Transparent"
+)
+
+(BShSym.137
+	Color:	138
+	Outline:	1
+	OutlineColor:	139
+	OutlineWidth:	1.00000000000000
+	BgColor:	140
+)
+
+(TClr.138
+)
+
+(TClr.139
+)
+
+(TClr.140
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.141
+	Color:	142
+	Outline:	1
+	OutlineColor:	143
+	OutlineWidth:	1.00000000000000
+	BgColor:	144
+)
+
+(TClr.142
+	Red:	0xa500
+	Green:	0xe500
+	Blue:	0xcc00
+)
+
+(TClr.143
+)
+
+(TClr.144
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.145
+	Color:	146
+	Outline:	1
+	OutlineColor:	147
+	OutlineWidth:	1.00000000000000
+	BgColor:	148
+)
+
+(TClr.146
+	Red:	0xa600
+	Green:	0xa600
+	Blue:	0xff00
+)
+
+(TClr.147
+)
+
+(TClr.148
+	Name:	"Transparent"
+)
+
+(BShSym.149
+	Color:	150
+	Outline:	1
+	OutlineColor:	151
+	OutlineWidth:	1.00000000000000
+	BgColor:	152
+)
+
+(TClr.150
+	Red:	0x4d00
+	Green:	0x4d00
+	Blue:	0xff00
+)
+
+(TClr.151
+)
+
+(TClr.152
+	Name:	"Transparent"
+)
+
+(BShSym.153
+	Color:	154
+	Outline:	1
+	OutlineColor:	155
+	OutlineWidth:	1.00000000000000
+	BgColor:	156
+)
+
+(TClr.154
+	Red:	0xcc00
+	Green:	0xcc00
+	Blue:	0xfe00
+)
+
+(TClr.155
+)
+
+(TClr.156
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.157
+	Color:	158
+	Outline:	1
+	OutlineColor:	159
+	OutlineWidth:	1.00000000000000
+	BgColor:	160
+)
+
+(TClr.158
+	Red:	0xe500
+	Green:	0xe500
+	Blue:	0xfe00
+)
+
+(TClr.159
+)
+
+(TClr.160
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.161
+	Color:	162
+	Outline:	1
+	OutlineColor:	163
+	OutlineWidth:	1.00000000000000
+	BgColor:	164
+)
+
+(TClr.162
+	Red:	0xa500
+	Green:	0xa500
+	Blue:	0xe500
+)
+
+(TClr.163
+)
+
+(TClr.164
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.165
+	Color:	166
+	Outline:	1
+	OutlineColor:	167
+	OutlineWidth:	1.00000000000000
+	BgColor:	168
+)
+
+(TClr.166
+	Green:	0xcc00
+	Blue:	0xe600
+)
+
+(TClr.167
+)
+
+(TClr.168
+	Name:	"Transparent"
+)
+
+(BShSym.169
+	Color:	170
+	Outline:	1
+	OutlineColor:	171
+	OutlineWidth:	1.00000000000000
+	BgColor:	172
+)
+
+(TClr.170
+	Red:	0xa600
+	Green:	0xe600
+	Blue:	0xe600
+)
+
+(TClr.171
+)
+
+(TClr.172
+	Name:	"Transparent"
+)
+
+(BShSym.173
+	Color:	174
+	Outline:	1
+	OutlineColor:	175
+	OutlineWidth:	1.00000000000000
+	BgColor:	176
+)
+
+(TClr.174
+	Green:	0xfe00
+	Blue:	0xa500
+)
+
+(TClr.175
+)
+
+(TClr.176
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.177
+	Color:	178
+	Outline:	1
+	OutlineColor:	179
+	OutlineWidth:	1.00000000000000
+	BgColor:	180
+)
+
+(TClr.178
+	Red:	0xa500
+	Green:	0xfe00
+	Blue:	0xe500
+)
+
+(TClr.179
+)
+
+(TClr.180
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.181
+	Color:	182
+	Outline:	1
+	OutlineColor:	183
+	OutlineWidth:	1.00000000000000
+	BgColor:	184
+)
+
+(TClr.182
+	Red:	0xe500
+	Green:	0xf200
+	Blue:	0xfe00
+)
+
+(TClr.183
+)
+
+(TClr.184
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.185
+	Color:	186
+	Outline:	1
+	OutlineColor:	187
+	OutlineWidth:	1.00000000000000
+	BgColor:	188
+)
+
+(TClr.186
+	Name:	"Transparent"
+)
+
+(TClr.187
+	Name:	"Transparent"
+)
+
+(TClr.188
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.189
+	Label:	"0"
+	Precision:	-3
+)
+
+(LClass.190
+	IsDisjoint:	1
+	Components:	191
+	Components:	192
+	Label:	"111"
+	MinNum:	111.00000000000000
+	MaxNum:	111.00000000000000
+	Precision:	-3
+)
+
+(LClass.191
+	Label:	"111"
+	MinNum:	111.00000000000000
+	MaxNum:	111.00000000000000
+	Precision:	-3
+)
+
+(LClass.192
+	Label:	"1110 - 1119"
+	MinNum:	1110.00000000000000
+	MaxNum:	1119.00000000000000
+	Precision:	-3
+)
+
+(LClass.193
+	IsDisjoint:	1
+	Components:	194
+	Components:	195
+	Label:	"112"
+	MinNum:	112.00000000000000
+	MaxNum:	112.00000000000000
+	Precision:	-3
+)
+
+(LClass.194
+	Label:	"112"
+	MinNum:	112.00000000000000
+	MaxNum:	112.00000000000000
+	Precision:	-3
+)
+
+(LClass.195
+	Label:	"1120 - 1129"
+	MinNum:	1120.00000000000000
+	MaxNum:	1129.00000000000000
+	Precision:	-3
+)
+
+(LClass.196
+	IsDisjoint:	1
+	Components:	197
+	Components:	198
+	Label:	"121"
+	MinNum:	121.00000000000000
+	MaxNum:	121.00000000000000
+	Precision:	-3
+)
+
+(LClass.197
+	Label:	"121"
+	MinNum:	121.00000000000000
+	MaxNum:	121.00000000000000
+	Precision:	-3
+)
+
+(LClass.198
+	Label:	"1210 - 1219"
+	MinNum:	1210.00000000000000
+	MaxNum:	1219.00000000000000
+	Precision:	-3
+)
+
+(LClass.199
+	IsDisjoint:	1
+	Components:	200
+	Components:	201
+	Label:	"122"
+	MinNum:	122.00000000000000
+	MaxNum:	122.00000000000000
+	Precision:	-3
+)
+
+(LClass.200
+	Label:	"122"
+	MinNum:	122.00000000000000
+	MaxNum:	122.00000000000000
+	Precision:	-3
+)
+
+(LClass.201
+	Label:	"1220 - 1229"
+	MinNum:	1220.00000000000000
+	MaxNum:	1229.00000000000000
+	Precision:	-3
+)
+
+(LClass.202
+	IsDisjoint:	1
+	Components:	203
+	Components:	204
+	Label:	"123"
+	MinNum:	123.00000000000000
+	MaxNum:	123.00000000000000
+	Precision:	-3
+)
+
+(LClass.203
+	Label:	"123"
+	MinNum:	123.00000000000000
+	MaxNum:	123.00000000000000
+	Precision:	-3
+)
+
+(LClass.204
+	Label:	"1230 - 1239"
+	MinNum:	1230.00000000000000
+	MaxNum:	1239.00000000000000
+	Precision:	-3
+)
+
+(LClass.205
+	IsDisjoint:	1
+	Components:	206
+	Components:	207
+	Label:	"124"
+	MinNum:	124.00000000000000
+	MaxNum:	124.00000000000000
+	Precision:	-3
+)
+
+(LClass.206
+	Label:	"124"
+	MinNum:	124.00000000000000
+	MaxNum:	124.00000000000000
+	Precision:	-3
+)
+
+(LClass.207
+	Label:	"1240 - 1249"
+	MinNum:	1240.00000000000000
+	MaxNum:	1249.00000000000000
+	Precision:	-3
+)
+
+(LClass.208
+	IsDisjoint:	1
+	Components:	209
+	Components:	210
+	Label:	"131"
+	MinNum:	131.00000000000000
+	MaxNum:	131.00000000000000
+	Precision:	-3
+)
+
+(LClass.209
+	Label:	"131"
+	MinNum:	131.00000000000000
+	MaxNum:	131.00000000000000
+	Precision:	-3
+)
+
+(LClass.210
+	Label:	"1310 - 1319"
+	MinNum:	1310.00000000000000
+	MaxNum:	1319.00000000000000
+	Precision:	-3
+)
+
+(LClass.211
+	IsDisjoint:	1
+	Components:	212
+	Components:	213
+	Label:	"132"
+	MinNum:	132.00000000000000
+	MaxNum:	132.00000000000000
+	Precision:	-3
+)
+
+(LClass.212
+	Label:	"132"
+	MinNum:	132.00000000000000
+	MaxNum:	132.00000000000000
+	Precision:	-3
+)
+
+(LClass.213
+	Label:	"1320 - 1329"
+	MinNum:	1320.00000000000000
+	MaxNum:	1329.00000000000000
+	Precision:	-3
+)
+
+(LClass.214
+	IsDisjoint:	1
+	Components:	215
+	Components:	216
+	Label:	"133"
+	MinNum:	133.00000000000000
+	MaxNum:	133.00000000000000
+	Precision:	-3
+)
+
+(LClass.215
+	Label:	"133"
+	MinNum:	133.00000000000000
+	MaxNum:	133.00000000000000
+	Precision:	-3
+)
+
+(LClass.216
+	Label:	"1330 - 1339"
+	MinNum:	1330.00000000000000
+	MaxNum:	1339.00000000000000
+	Precision:	-3
+)
+
+(LClass.217
+	IsDisjoint:	1
+	Components:	218
+	Components:	219
+	Label:	"141"
+	MinNum:	141.00000000000000
+	MaxNum:	141.00000000000000
+	Precision:	-3
+)
+
+(LClass.218
+	Label:	"141"
+	MinNum:	141.00000000000000
+	MaxNum:	141.00000000000000
+	Precision:	-3
+)
+
+(LClass.219
+	Label:	"1410 - 1419"
+	MinNum:	1410.00000000000000
+	MaxNum:	1419.00000000000000
+	Precision:	-3
+)
+
+(LClass.220
+	IsDisjoint:	1
+	Components:	221
+	Components:	222
+	Label:	"142"
+	MinNum:	142.00000000000000
+	MaxNum:	142.00000000000000
+	Precision:	-3
+)
+
+(LClass.221
+	Label:	"142"
+	MinNum:	142.00000000000000
+	MaxNum:	142.00000000000000
+	Precision:	-3
+)
+
+(LClass.222
+	Label:	"1420 - 1429"
+	MinNum:	1420.00000000000000
+	MaxNum:	1429.00000000000000
+	Precision:	-3
+)
+
+(LClass.223
+	IsDisjoint:	1
+	Components:	224
+	Components:	225
+	Label:	"211"
+	MinNum:	211.00000000000000
+	MaxNum:	211.00000000000000
+	Precision:	-3
+)
+
+(LClass.224
+	Label:	"211"
+	MinNum:	211.00000000000000
+	MaxNum:	211.00000000000000
+	Precision:	-3
+)
+
+(LClass.225
+	Label:	"2110 - 2119"
+	MinNum:	2110.00000000000000
+	MaxNum:	2119.00000000000000
+	Precision:	-3
+)
+
+(LClass.226
+	IsDisjoint:	1
+	Components:	227
+	Components:	228
+	Label:	"212"
+	MinNum:	212.00000000000000
+	MaxNum:	212.00000000000000
+	Precision:	-3
+)
+
+(LClass.227
+	Label:	"212"
+	MinNum:	212.00000000000000
+	MaxNum:	212.00000000000000
+	Precision:	-3
+)
+
+(LClass.228
+	Label:	"2120 - 2129"
+	MinNum:	2120.00000000000000
+	MaxNum:	2129.00000000000000
+	Precision:	-3
+)
+
+(LClass.229
+	IsDisjoint:	1
+	Components:	230
+	Components:	231
+	Label:	"213"
+	MinNum:	213.00000000000000
+	MaxNum:	213.00000000000000
+	Precision:	-3
+)
+
+(LClass.230
+	Label:	"213"
+	MinNum:	213.00000000000000
+	MaxNum:	213.00000000000000
+	Precision:	-3
+)
+
+(LClass.231
+	Label:	"2130 - 2139"
+	MinNum:	2130.00000000000000
+	MaxNum:	2139.00000000000000
+	Precision:	-3
+)
+
+(LClass.232
+	IsDisjoint:	1
+	Components:	233
+	Components:	234
+	Label:	"221"
+	MinNum:	221.00000000000000
+	MaxNum:	221.00000000000000
+	Precision:	-3
+)
+
+(LClass.233
+	Label:	"221"
+	MinNum:	221.00000000000000
+	MaxNum:	221.00000000000000
+	Precision:	-3
+)
+
+(LClass.234
+	Label:	"2210 - 2219"
+	MinNum:	2210.00000000000000
+	MaxNum:	2219.00000000000000
+	Precision:	-3
+)
+
+(LClass.235
+	IsDisjoint:	1
+	Components:	236
+	Components:	237
+	Label:	"222"
+	MinNum:	222.00000000000000
+	MaxNum:	222.00000000000000
+	Precision:	-3
+)
+
+(LClass.236
+	Label:	"222"
+	MinNum:	222.00000000000000
+	MaxNum:	222.00000000000000
+	Precision:	-3
+)
+
+(LClass.237
+	Label:	"2220 - 2229"
+	MinNum:	2220.00000000000000
+	MaxNum:	2229.00000000000000
+	Precision:	-3
+)
+
+(LClass.238
+	IsDisjoint:	1
+	Components:	239
+	Components:	240
+	Label:	"223"
+	MinNum:	223.00000000000000
+	MaxNum:	223.00000000000000
+	Precision:	-3
+)
+
+(LClass.239
+	Label:	"223"
+	MinNum:	223.00000000000000
+	MaxNum:	223.00000000000000
+	Precision:	-3
+)
+
+(LClass.240
+	Label:	"2230 - 2239"
+	MinNum:	2230.00000000000000
+	MaxNum:	2239.00000000000000
+	Precision:	-3
+)
+
+(LClass.241
+	IsDisjoint:	1
+	Components:	242
+	Components:	243
+	Label:	"231"
+	MinNum:	231.00000000000000
+	MaxNum:	231.00000000000000
+	Precision:	-3
+)
+
+(LClass.242
+	Label:	"231"
+	MinNum:	231.00000000000000
+	MaxNum:	231.00000000000000
+	Precision:	-3
+)
+
+(LClass.243
+	Label:	"2310 - 2319"
+	MinNum:	2310.00000000000000
+	MaxNum:	2319.00000000000000
+	Precision:	-3
+)
+
+(LClass.244
+	IsDisjoint:	1
+	Components:	245
+	Components:	246
+	Label:	"241"
+	MinNum:	241.00000000000000
+	MaxNum:	241.00000000000000
+	Precision:	-3
+)
+
+(LClass.245
+	Label:	"241"
+	MinNum:	241.00000000000000
+	MaxNum:	241.00000000000000
+	Precision:	-3
+)
+
+(LClass.246
+	Label:	"2410 - 2419"
+	MinNum:	2410.00000000000000
+	MaxNum:	2419.00000000000000
+	Precision:	-3
+)
+
+(LClass.247
+	IsDisjoint:	1
+	Components:	248
+	Components:	249
+	Label:	"242"
+	MinNum:	242.00000000000000
+	MaxNum:	242.00000000000000
+	Precision:	-3
+)
+
+(LClass.248
+	Label:	"242"
+	MinNum:	242.00000000000000
+	MaxNum:	242.00000000000000
+	Precision:	-3
+)
+
+(LClass.249
+	Label:	"2420 - 2429"
+	MinNum:	2420.00000000000000
+	MaxNum:	2429.00000000000000
+	Precision:	-3
+)
+
+(LClass.250
+	IsDisjoint:	1
+	Components:	251
+	Components:	252
+	Label:	"243"
+	MinNum:	243.00000000000000
+	MaxNum:	243.00000000000000
+	Precision:	-3
+)
+
+(LClass.251
+	Label:	"243"
+	MinNum:	243.00000000000000
+	MaxNum:	243.00000000000000
+	Precision:	-3
+)
+
+(LClass.252
+	Label:	"2430 - 2439"
+	MinNum:	2430.00000000000000
+	MaxNum:	2439.00000000000000
+	Precision:	-3
+)
+
+(LClass.253
+	IsDisjoint:	1
+	Components:	254
+	Components:	255
+	Label:	"244"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.254
+	Label:	"244"
+	MinNum:	244.00000000000000
+	MaxNum:	244.00000000000000
+	Precision:	-3
+)
+
+(LClass.255
+	Label:	"2440 - 2449"
+	MinNum:	2440.00000000000000
+	MaxNum:	2449.00000000000000
+	Precision:	-3
+)
+
+(LClass.256
+	IsDisjoint:	1
+	Components:	257
+	Components:	258
+	Label:	"311"
+	MinNum:	311.00000000000000
+	MaxNum:	311.00000000000000
+	Precision:	-3
+)
+
+(LClass.257
+	Label:	"311"
+	MinNum:	311.00000000000000
+	MaxNum:	311.00000000000000
+	Precision:	-3
+)
+
+(LClass.258
+	Label:	"3110 - 3119"
+	MinNum:	3110.00000000000000
+	MaxNum:	3119.00000000000000
+	Precision:	-3
+)
+
+(LClass.259
+	IsDisjoint:	1
+	Components:	260
+	Components:	261
+	Label:	"312"
+	MinNum:	312.00000000000000
+	MaxNum:	312.00000000000000
+	Precision:	-3
+)
+
+(LClass.260
+	Label:	"312"
+	MinNum:	312.00000000000000
+	MaxNum:	312.00000000000000
+	Precision:	-3
+)
+
+(LClass.261
+	Label:	"3120 - 3129"
+	MinNum:	3120.00000000000000
+	MaxNum:	3129.00000000000000
+	Precision:	-3
+)
+
+(LClass.262
+	IsDisjoint:	1
+	Components:	263
+	Components:	264
+	Label:	"313"
+	MinNum:	313.00000000000000
+	MaxNum:	313.00000000000000
+	Precision:	-3
+)
+
+(LClass.263
+	Label:	"313"
+	MinNum:	313.00000000000000
+	MaxNum:	313.00000000000000
+	Precision:	-3
+)
+
+(LClass.264
+	Label:	"3130 - 3139"
+	MinNum:	3130.00000000000000
+	MaxNum:	3139.00000000000000
+	Precision:	-3
+)
+
+(LClass.265
+	IsDisjoint:	1
+	Components:	266
+	Components:	267
+	Label:	"321"
+	MinNum:	321.00000000000000
+	MaxNum:	321.00000000000000
+	Precision:	-3
+)
+
+(LClass.266
+	Label:	"321"
+	MinNum:	321.00000000000000
+	MaxNum:	321.00000000000000
+	Precision:	-3
+)
+
+(LClass.267
+	Label:	"3210 - 3219"
+	MinNum:	3210.00000000000000
+	MaxNum:	3219.00000000000000
+	Precision:	-3
+)
+
+(LClass.268
+	IsDisjoint:	1
+	Components:	269
+	Components:	270
+	Label:	"322"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.269
+	Label:	"322"
+	MinNum:	322.00000000000000
+	MaxNum:	322.00000000000000
+	Precision:	-3
+)
+
+(LClass.270
+	Label:	"3220 - 3229"
+	MinNum:	3220.00000000000000
+	MaxNum:	3229.00000000000000
+	Precision:	-3
+)
+
+(LClass.271
+	IsDisjoint:	1
+	Components:	272
+	Components:	273
+	Label:	"323"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.272
+	Label:	"323"
+	MinNum:	323.00000000000000
+	MaxNum:	323.00000000000000
+	Precision:	-3
+)
+
+(LClass.273
+	Label:	"3230 - 3239"
+	MinNum:	3230.00000000000000
+	MaxNum:	3239.00000000000000
+	Precision:	-3
+)
+
+(LClass.274
+	IsDisjoint:	1
+	Components:	275
+	Components:	276
+	Label:	"324"
+	MinNum:	324.00000000000000
+	MaxNum:	324.00000000000000
+	Precision:	-3
+)
+
+(LClass.275
+	Label:	"324"
+	MinNum:	324.00000000000000
+	MaxNum:	324.00000000000000
+	Precision:	-3
+)
+
+(LClass.276
+	Label:	"3240 - 3249"
+	MinNum:	3240.00000000000000
+	MaxNum:	3249.00000000000000
+	Precision:	-3
+)
+
+(LClass.277
+	IsDisjoint:	1
+	Components:	278
+	Components:	279
+	Label:	"331"
+	MinNum:	331.00000000000000
+	MaxNum:	331.00000000000000
+	Precision:	-3
+)
+
+(LClass.278
+	Label:	"331"
+	MinNum:	331.00000000000000
+	MaxNum:	331.00000000000000
+	Precision:	-3
+)
+
+(LClass.279
+	Label:	"3310 - 3319"
+	MinNum:	3310.00000000000000
+	MaxNum:	3319.00000000000000
+	Precision:	-3
+)
+
+(LClass.280
+	IsDisjoint:	1
+	Components:	281
+	Components:	282
+	Label:	"332"
+	MinNum:	332.00000000000000
+	MaxNum:	332.00000000000000
+	Precision:	-3
+)
+
+(LClass.281
+	Label:	"332"
+	MinNum:	332.00000000000000
+	MaxNum:	332.00000000000000
+	Precision:	-3
+)
+
+(LClass.282
+	Label:	"3320 - 3329"
+	MinNum:	3320.00000000000000
+	MaxNum:	3329.00000000000000
+	Precision:	-3
+)
+
+(LClass.283
+	IsDisjoint:	1
+	Components:	284
+	Components:	285
+	Label:	"333"
+	MinNum:	333.00000000000000
+	MaxNum:	333.00000000000000
+	Precision:	-3
+)
+
+(LClass.284
+	Label:	"333"
+	MinNum:	333.00000000000000
+	MaxNum:	333.00000000000000
+	Precision:	-3
+)
+
+(LClass.285
+	Label:	"3330 - 3339"
+	MinNum:	3330.00000000000000
+	MaxNum:	3339.00000000000000
+	Precision:	-3
+)
+
+(LClass.286
+	IsDisjoint:	1
+	Components:	287
+	Components:	288
+	Label:	"334"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.287
+	Label:	"334"
+	MinNum:	334.00000000000000
+	MaxNum:	334.00000000000000
+	Precision:	-3
+)
+
+(LClass.288
+	Label:	"3340 - 3349"
+	MinNum:	3340.00000000000000
+	MaxNum:	3349.00000000000000
+	Precision:	-3
+)
+
+(LClass.289
+	IsDisjoint:	1
+	Components:	290
+	Components:	291
+	Label:	"335"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.290
+	Label:	"335"
+	MinNum:	335.00000000000000
+	MaxNum:	335.00000000000000
+	Precision:	-3
+)
+
+(LClass.291
+	Label:	"3350 - 3359"
+	MinNum:	3350.00000000000000
+	MaxNum:	3359.00000000000000
+	Precision:	-3
+)
+
+(LClass.292
+	IsDisjoint:	1
+	Components:	293
+	Components:	294
+	Label:	"411"
+	MinNum:	411.00000000000000
+	MaxNum:	411.00000000000000
+	Precision:	-3
+)
+
+(LClass.293
+	Label:	"411"
+	MinNum:	411.00000000000000
+	MaxNum:	411.00000000000000
+	Precision:	-3
+)
+
+(LClass.294
+	Label:	"4110 - 4119"
+	MinNum:	4110.00000000000000
+	MaxNum:	4119.00000000000000
+	Precision:	-3
+)
+
+(LClass.295
+	IsDisjoint:	1
+	Components:	296
+	Components:	297
+	Label:	"412"
+	MinNum:	412.00000000000000
+	MaxNum:	412.00000000000000
+	Precision:	-3
+)
+
+(LClass.296
+	Label:	"412"
+	MinNum:	412.00000000000000
+	MaxNum:	412.00000000000000
+	Precision:	-3
+)
+
+(LClass.297
+	Label:	"4120 - 4129"
+	MinNum:	4120.00000000000000
+	MaxNum:	4129.00000000000000
+	Precision:	-3
+)
+
+(LClass.298
+	IsDisjoint:	1
+	Components:	299
+	Components:	300
+	Label:	"421"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.299
+	Label:	"421"
+	MinNum:	421.00000000000000
+	MaxNum:	421.00000000000000
+	Precision:	-3
+)
+
+(LClass.300
+	Label:	"4210 - 4219"
+	MinNum:	4210.00000000000000
+	MaxNum:	4219.00000000000000
+	Precision:	-3
+)
+
+(LClass.301
+	IsDisjoint:	1
+	Components:	302
+	Components:	303
+	Label:	"422"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.302
+	Label:	"422"
+	MinNum:	422.00000000000000
+	MaxNum:	422.00000000000000
+	Precision:	-3
+)
+
+(LClass.303
+	Label:	"4220 - 4229"
+	MinNum:	4220.00000000000000
+	MaxNum:	4229.00000000000000
+	Precision:	-3
+)
+
+(LClass.304
+	IsDisjoint:	1
+	Components:	305
+	Components:	306
+	Label:	"423"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.305
+	Label:	"423"
+	MinNum:	423.00000000000000
+	MaxNum:	423.00000000000000
+	Precision:	-3
+)
+
+(LClass.306
+	Label:	"4230 - 4239"
+	MinNum:	4230.00000000000000
+	MaxNum:	4239.00000000000000
+	Precision:	-3
+)
+
+(LClass.307
+	IsDisjoint:	1
+	Components:	308
+	Components:	309
+	Label:	"511"
+	MinNum:	511.00000000000000
+	MaxNum:	511.00000000000000
+	Precision:	-3
+)
+
+(LClass.308
+	Label:	"511"
+	MinNum:	511.00000000000000
+	MaxNum:	511.00000000000000
+	Precision:	-3
+)
+
+(LClass.309
+	Label:	"5110 - 5119"
+	MinNum:	5110.00000000000000
+	MaxNum:	5119.00000000000000
+	Precision:	-3
+)
+
+(LClass.310
+	IsDisjoint:	1
+	Components:	311
+	Components:	312
+	Label:	"512"
+	MinNum:	512.00000000000000
+	MaxNum:	512.00000000000000
+	Precision:	-3
+)
+
+(LClass.311
+	Label:	"512"
+	MinNum:	512.00000000000000
+	MaxNum:	512.00000000000000
+	Precision:	-3
+)
+
+(LClass.312
+	Label:	"5110 - 5119"
+	MinNum:	5110.00000000000000
+	MaxNum:	5119.00000000000000
+	Precision:	-3
+)
+
+(LClass.313
+	IsDisjoint:	1
+	Components:	314
+	Components:	315
+	Label:	"521"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.314
+	Label:	"521"
+	MinNum:	521.00000000000000
+	MaxNum:	521.00000000000000
+	Precision:	-3
+)
+
+(LClass.315
+	Label:	"5210 - 5219"
+	MinNum:	5210.00000000000000
+	MaxNum:	5219.00000000000000
+	Precision:	-3
+)
+
+(LClass.316
+	IsDisjoint:	1
+	Components:	317
+	Components:	318
+	Label:	"522"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.317
+	Label:	"522"
+	MinNum:	522.00000000000000
+	MaxNum:	522.00000000000000
+	Precision:	-3
+)
+
+(LClass.318
+	Label:	"5220 - 5229"
+	MinNum:	5220.00000000000000
+	MaxNum:	5229.00000000000000
+	Precision:	-3
+)
+
+(LClass.319
+	IsDisjoint:	1
+	Components:	320
+	Components:	321
+	Label:	"523"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(LClass.320
+	Label:	"523"
+	MinNum:	523.00000000000000
+	MaxNum:	523.00000000000000
+	Precision:	-3
+)
+
+(LClass.321
+	Label:	"5230 - 5239"
+	MinNum:	5230.00000000000000
+	MaxNum:	5239.00000000000000
+	Precision:	-3
+)
+
+(LClass.322
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.323
+	Color:	324
+	Outline:	1
+	OutlineColor:	325
+	OutlineWidth:	1.00000000000000
+	BgColor:	326
+)
+
+(TClr.324
+	Name:	"Transparent"
+)
+
+(TClr.325
+	Name:	"Transparent"
+)
+
+(TClr.326
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.327
+)
+
+(NameDict.328
+)
+
