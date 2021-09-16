@@ -1,4 +1,4 @@
-# geopython-ut-2020 notebooks for binder
+# geopython-ut-2021 notebooks and conda environment.yml for binder
 
 Python notebooks for given lectures in Geoinformatics Geopython course
 
