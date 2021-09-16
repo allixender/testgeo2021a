@@ -1,6 +1,9 @@
 name: Test Repo2Docker Binder Cache
-on: push
-
+# on: push
+on:
+  workflow_dispatch:
+    inputs:
+    
 jobs:
   binder:
     runs-on: ubuntu-latest
