@@ -8,4 +8,8 @@
 
 - lesson5.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/allixender/testgeo2021a/main?filepath=L5%2Flesson5.ipynb)
 
-- lesson6_folium.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/allixender/testgeo2021a/main?filepath=L6%2Flesson6_folium.ipynb)
+- L6_static_maps.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/allixender/testgeo2021a/main?filepath=L6%2FL6_static_maps.ipynb)
+
+- L6_interactive_maps.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/allixender/testgeo2021a/main?filepath=L6%2FL6_interactive_maps.ipynb)
+
+- L6_folium.ipynb.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/allixender/testgeo2021a/main?filepath=L6%2FL6_folium.ipynb)
