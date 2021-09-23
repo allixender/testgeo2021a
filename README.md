@@ -2,12 +2,12 @@
 
 Python notebooks for given lectures in Geoinformatics Geopython course
 
-https://kodu.ut.ee/~kmoch/geopython2020
+https://kodu.ut.ee/~kmoch/geopython2021
 
 
 Course materials repository:
 
-https://github.com/LandscapeGeoinformatics/geopython-ut-2020-course
+https://gitlab.ut.ee/geog/geopython-ut-2021-sphinx
 
 
 ## Acknowledgements
@@ -16,11 +16,11 @@ https://github.com/LandscapeGeoinformatics/geopython-ut-2020-course
 
 - H2020 MSCA IF
 
-<img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/geopython-ut-2020-course/blob/master/source//_static/img/Banner-msca3.png" height="100" />
+<img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/geopython-ut-2020-course/blob/master/source/_static/img/Banner-msca3.png" height="100" />
 
 - HITSA
 
-<img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/geopython-ut-2020-course/blob/master/source//_static/img/HITSA_logo.jpg" height="100" />
+<img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/geopython-ut-2020-course/blob/master/source/_static/img/HITSA_logo.jpg" height="100" />
 
 
 
