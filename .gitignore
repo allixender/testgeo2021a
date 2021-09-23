@@ -106,25 +106,15 @@ dev_test/
 .mypy_cache/
 
 
-L2/DAMSELFISH_distributions_SELECTION.cpg
-L2/DAMSELFISH_distributions_SELECTION.dbf
-L2/DAMSELFISH_distributions_SELECTION.prj
-L2/DAMSELFISH_distributions_SELECTION.shp
-L2/DAMSELFISH_distributions_SELECTION.shx
-L2/Europe_borders_epsg3035.cpg
-L2/Europe_borders_epsg3035.dbf
-L2/Europe_borders_epsg3035.prj
-L2/Europe_borders_epsg3035.shp
-L2/Europe_borders_epsg3035.shx
+L2/DAMSELFISH_distributions_SELECTION.*
+L2/Europe_borders_epsg3035.*
 L2/results/
-L3/landuse_per_species.cpg
-L3/landuse_per_species.dbf
-L3/landuse_per_species.prj
-L3/landuse_per_species.shp
-L3/landuse_per_species.shx
-L4/bogs.cpg
-L4/bogs.dbf
-L4/bogs.shp
-L4/bogs.shx
+L3/landuse_per_species.*
+L4/bogs.*
 
 L2/raekoja_plats*
+
+L6/DEM_hillshade_etc.png
+L6/base_map.html
+L6/full_map.html
+L6/static_map.png
